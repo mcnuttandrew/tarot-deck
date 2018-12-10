@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>01 The magician</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01-The-magician" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-MAGICIAN-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="82.348" y="584.239868">THE MAGICIAN </tspan>
+        </text>
+        <text id="I" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="176.5" y="63">I</tspan>
+        </text>
+        <g id="Group" transform="translate(62.000000, 164.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="77.7029703" y="68.9039813" width="80.5940594" height="142.93911"></rect>
+            <path d="M25.2084449,27.668785 C25.2084449,20.7908465 30.7834253,15.2151757 37.6638904,15.2151757 L37.6638904,15.2151757 C44.5428431,15.2151757 50.119336,20.7998961 50.119336,27.668785 L50.119336,98.303006 C50.119336,105.180944 44.5443556,110.756615 37.6638904,110.756615 L37.6638904,110.756615 C30.7849378,110.756615 25.2084449,105.171895 25.2084449,98.303006 L25.2084449,27.668785 Z" id="Rectangle-15" transform="translate(37.663890, 62.985895) scale(-1, 1) rotate(-326.000000) translate(-37.663890, -62.985895) "></path>
+            <rect id="Rectangle-15" x="167.089109" y="79.8992974" width="24.9108911" height="116.550351" rx="12.4554455"></rect>
+            <rect id="Rectangle-15" x="44" y="68.9039813" width="147.267327" height="40.3161593" rx="20.1580796"></rect>
+            <rect id="Rectangle-15" x="77.7029703" y="196.449649" width="29.3069307" height="116.550351" rx="14.6534653"></rect>
+            <rect id="Rectangle-15" x="128.990099" y="196.449649" width="29.3069307" height="116.550351" rx="14.6534653"></rect>
+            <ellipse id="Oval-7" cx="118.366337" cy="31.1533958" rx="31.1386139" ry="31.1533958"></ellipse>
+        </g>
+        <g id="Oval-8-+-Oval-8" transform="translate(148.000000, 124.000000)" stroke="#000000" stroke-width="7">
+            <ellipse id="Oval-8" cx="16" cy="10" rx="16" ry="10"></ellipse>
+            <ellipse id="Oval-8" cx="48" cy="10" rx="16" ry="10"></ellipse>
+        </g>
+        <path d="M90.9583333,98.7810668 L82.5,88 L72,103.468487 L77.8333333,112.374586 L73.1666667,135.342945 L79.1458333,138.155398 L73.75,157.842563 L79.1458333,170.498598 L75.5,186.904569 L79.1458333,219.247769 L73.75,241.278645 L79.1458333,251.59097 L79.1458333,266.590715 L87.1666667,256.747132 C87.1666667,256.747132 87.9671509,240.305782 87.1666667,232.372546 C86.8004842,228.743478 83.6666667,207.529218 83.6666667,207.529218 L93,186.904569 L83.6666667,173.31105 L88.9166667,151.748917 L83.6666667,128.780557 L87.1666667,114.718296 L90.9583333,98.7810668 Z" id="wand" fill="#000000"></path>
+    </g>
+</svg>

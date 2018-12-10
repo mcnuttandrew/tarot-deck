@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>19 The sun</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="19-The-sun" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card" transform="translate(3.000000, 16.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="11" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M13.5,522 L337.5,522" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="THE-SUN-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="116.368" y="568.239868">THE SUN </tspan>
+            </text>
+            <g id="icon" transform="translate(0.000000, 95.000000)" fill="#FFFFFF">
+                <ellipse id="Oval-1" filter="url(#filter-1)" cx="178.293103" cy="176.562937" rx="74.5689655" ry="75.6118881"></ellipse>
+                <g id="Group" transform="translate(52.000000, 52.000000)">
+                    <polygon id="Triangle-1" points="126.293103 0 135.344828 43.7062937 117.241379 43.7062937"></polygon>
+                    <polygon id="Triangle-1" points="250 124.562937 206.896552 133.741259 206.896552 115.384615"></polygon>
+                    <polygon id="Triangle-1" points="0 124.562937 43.1034483 115.384615 43.1034483 133.741259"></polygon>
+                    <polygon id="Triangle-1" points="126.293103 250 117.241379 206.293706 135.344828 206.293706"></polygon>
+                </g>
+                <g id="Group" transform="translate(177.000000, 177.000000) rotate(-315.000000) translate(-177.000000, -177.000000) translate(52.000000, 52.000000)">
+                    <polygon id="Triangle-1" points="126.293103 1.13686838e-13 135.344828 43.7062937 117.241379 43.7062937"></polygon>
+                    <polygon id="Triangle-1" points="250 124.562937 206.896552 133.741259 206.896552 115.384615"></polygon>
+                    <polygon id="Triangle-1" points="-2.13162821e-13 124.562937 43.1034483 115.384615 43.1034483 133.741259"></polygon>
+                    <polygon id="Triangle-1" points="126.293103 250 117.241379 206.293706 135.344828 206.293706"></polygon>
+                </g>
+            </g>
+            <text id="XIX" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="156" y="41">XIX</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

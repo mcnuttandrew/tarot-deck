@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Knight Swords</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Knight-Swords" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(10.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#AF1E2D" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="70.02" y="559">SAILOR OF THE</tspan>
+                <tspan x="51" y="579">ENDLESS CLOUDS</tspan>
+            </text>
+            <text id="SWORDS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="157.547887" y="58.6785714">SWORDS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="102.759259" y="68.0535714">KNIGHT</tspan>
+            </text>
+        </g>
+        <g id="sword" transform="translate(187.286444, 310.000000) scale(-1, -1) translate(-187.286444, -310.000000) translate(174.000000, 241.000000)">
+            <rect id="Rectangle-65" x="4.0881367" y="28.7869406" width="17.4767848" height="108.646725"></rect>
+            <rect id="Rectangle-63" fill="#000000" x="0" y="22.2866637" width="26.5728886" height="6.50027692" rx="3.25013846"></rect>
+            <g id="Rectangle-61-+-Triangle-7" transform="translate(7.154239, 28.786941)" fill="#000000">
+                <rect id="Rectangle-61" x="0" y="0" width="5.11017088" height="99.3613757"></rect>
+                <polygon id="Triangle-7" transform="translate(2.555085, 104.004431) scale(1, -1) translate(-2.555085, -104.004431) " points="5.11017088 99.3613757 5.11017088 108.647486 0 108.647486"></polygon>
+            </g>
+            <g id="Rectangle-61-+-Triangle-7" transform="translate(15.841530, 83.110683) scale(-1, 1) translate(-15.841530, -83.110683) translate(13.286444, 28.786941)" fill="#000000">
+                <rect id="Rectangle-61" x="0" y="0" width="5.11017088" height="99.3613757"></rect>
+                <polygon id="Triangle-7" transform="translate(2.555085, 104.004431) scale(1, -1) translate(-2.555085, -104.004431) " points="5.11017088 99.3613757 5.11017088 108.647486 0 108.647486"></polygon>
+            </g>
+            <rect id="Rectangle-63" fill="#000000" x="7.15423923" y="0" width="11.2423759" height="26.0011077" rx="4"></rect>
+        </g>
+        <g id="Group" transform="translate(44.000000, 283.000000)" fill="#000000">
+            <ellipse id="Oval-28" cx="28.3435583" cy="47.7021277" rx="28.3435583" ry="28.2978723"></ellipse>
+            <ellipse id="Oval-28" cx="63.1656442" cy="28.2978723" rx="28.3435583" ry="28.2978723"></ellipse>
+            <ellipse id="Oval-28" cx="91.9141104" cy="28.7021277" rx="20.6503067" ry="20.6170213"></ellipse>
+            <ellipse id="Oval-28" cx="111.349693" cy="55.3829787" rx="20.6503067" ry="20.6170213"></ellipse>
+            <rect id="Rectangle-59" x="27.5337423" y="44.4680851" width="83.4110429" height="31.5319149"></rect>
+        </g>
+        <g id="Group" transform="translate(246.000000, 382.000000) scale(-1, 1) translate(-246.000000, -382.000000) translate(180.000000, 344.000000)" fill="#000000">
+            <ellipse id="Oval-28" cx="28.3435583" cy="47.7021277" rx="28.3435583" ry="28.2978723"></ellipse>
+            <ellipse id="Oval-28" cx="63.1656442" cy="28.2978723" rx="28.3435583" ry="28.2978723"></ellipse>
+            <ellipse id="Oval-28" cx="91.9141104" cy="28.7021277" rx="20.6503067" ry="20.6170213"></ellipse>
+            <ellipse id="Oval-28" cx="111.349693" cy="55.3829787" rx="20.6503067" ry="20.6170213"></ellipse>
+            <rect id="Rectangle-59" x="27.5337423" y="44.4680851" width="83.4110429" height="31.5319149"></rect>
+        </g>
+    </g>
+</svg>

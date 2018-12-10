@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>20 Judgement</title>
+    <desc>Created with Sketch.</desc>
+    <g id="20-Judgement" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card" transform="translate(9.000000, 16.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#AF1E2D" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M7.5,522 L331.5,522" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="JUDGEMENT-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="87.208" y="568.239868">JUDGEMENT </tspan>
+            </text>
+            <text id="XX" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="155" y="41">XX</tspan>
+            </text>
+            <g id="icon" transform="translate(30.000000, 140.000000)">
+                <rect id="Rectangle-25" fill="#000000" x="69.8874459" y="270.802198" width="149.160173" height="9.1978022"></rect>
+                <rect id="Rectangle-26" fill="#000000" x="139.424242" y="20.4175824" width="12.2597403" height="255.494505" rx="6.12987013"></rect>
+                <path d="M131.251082,39.8351648 C128.628837,50.3275664 128.579304,67.5261586 132.272727,81.7362637 C135.966151,95.9463689 145.554112,95.0219763 145.554112,95.0219763 C145.554112,95.0219763 145.895721,35.3138897 145.554113,28.5934066 C145.212504,21.8729235 133.873328,29.3427633 131.251082,39.8351648 Z" id="Path-23" fill="#000000"></path>
+                <path d="M147.425761,40.3522918 C144.803515,50.8446934 144.753983,68.0432856 148.447406,82.2533907 C152.14083,96.4634959 161.728791,95.5391033 161.728791,95.5391033 C161.728791,95.5391033 162.070399,35.8310167 161.728791,29.1105336 C161.387183,22.3900504 150.048007,29.8598903 147.425761,40.3522918 Z" id="Path-23" fill="#000000" transform="translate(153.717365, 61.050403) scale(-1, 1) translate(-153.717365, -61.050403) "></path>
+                <path d="M132.101086,219.198446 C129.47884,229.690847 90.778438,256.592093 94.4718615,270.802198 C98.165285,285.012303 146.404116,274.385257 146.404116,274.385257 C146.404116,274.385257 146.745724,214.677171 146.404116,207.956687 C146.062508,201.236204 134.723331,208.706044 132.101086,219.198446 Z" id="Path-23" fill="#000000"></path>
+                <path d="M182.409938,219.198446 C179.787693,229.690847 141.087291,256.592093 144.780714,270.802198 C148.474138,285.012303 196.712968,274.385257 196.712968,274.385257 C196.712968,274.385257 197.054577,214.677171 196.712969,207.956687 C196.371361,201.236204 185.032184,208.706044 182.409938,219.198446 Z" id="Path-23" fill="#000000" transform="translate(170.698631, 241.798910) scale(-1, 1) translate(-170.698631, -241.798910) "></path>
+                <path d="M25,105.241758 L261,1" id="Path-26" stroke="#000000" stroke-width="10"></path>
+                <g id="weight" transform="translate(0.000000, 101.000000)" stroke="#000000" stroke-linecap="square">
+                    <path d="M0.5,112.217742 L29.5,0.975806452" id="Line"></path>
+                    <path d="M54.5,114.169355 L2.5,114.169355" id="Line" stroke-width="7"></path>
+                    <path d="M55.5,112.217742 L28.5,4.87903226" id="Line"></path>
+                </g>
+                <g id="weight" transform="translate(231.000000, 0.000000)" stroke="#000000" stroke-linecap="square">
+                    <path d="M0.5,112.217742 L29.5,0.975806452" id="Line"></path>
+                    <path d="M54.5,114.169355 L2.5,114.169355" id="Line" stroke-width="7"></path>
+                    <path d="M55.5,112.217742 L28.5,4.87903226" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

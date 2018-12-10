@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Queen Wands</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Queen-Wands" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(12.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M246.003472,317.067449 L245.197917,316.802083 L244.197917,317.182825 L244.753472,317.40204 L244.309028,317.967383 L244.878472,318.036609 L244.364583,318.521189 L244.878472,318.832705 L244.53125,319.236521 L244.878472,320.032617 L244.364583,320.574885 L244.878472,320.828713 L244.878472,321.197917 L245.642361,320.955627 C245.642361,320.955627 245.718598,320.550939 245.642361,320.35567 C245.607487,320.266344 245.309028,319.744177 245.309028,319.744177 L246.197917,319.236521 L245.309028,318.90193 L245.809028,318.3712 L245.309028,317.805856 L245.642361,317.459728 L246.003472,317.067449 Z" id="Path-115" fill="#000000" transform="translate(245.197917, 319.000000) scale(-1, 1) rotate(-270.000000) translate(-245.197917, -319.000000) "></path>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="83.2" y="559">LADY OF THE</tspan>
+                <tspan x="53.5" y="579">HOUSE OF SCORN</tspan>
+            </text>
+            <text id="WANDS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="156.026056" y="71">WANDS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" fill="#000000">
+                <tspan x="103.369577" y="57">QUEEN</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(44.000000, 287.000000)">
+            <rect id="Rectangle-86" fill="#000000" x="0" y="37.1325301" width="60" height="29.8674699"></rect>
+            <rect id="Rectangle-86" fill="#000000" x="216" y="37.1325301" width="60" height="29.8674699"></rect>
+            <rect id="Rectangle-86" fill="#000000" x="63" y="37.1325301" width="22" height="29.8674699"></rect>
+            <rect id="Rectangle-86" fill="#000000" x="88" y="37.1325301" width="22" height="29.8674699"></rect>
+            <rect id="Rectangle-86" fill="#000000" x="113" y="37.1325301" width="22" height="29.8674699"></rect>
+            <polygon id="Path-100" fill="#000000" points="63.2421875 34.7723315 138.896461 34.7723315 63.2421875 18.8788298"></polygon>
+            <polygon id="Path-100" fill="#000000" transform="translate(200.000000, 21.854926) scale(-1, 1) translate(-200.000000, -21.854926) " points="140 34.4597668 260 34.4597668 140 9.25008434"></polygon>
+            <rect id="Rectangle-94" fill="#FCD116" x="85" y="23.4096386" width="3" height="14.5301205"></rect>
+            <polygon id="Rectangle-94" fill="#FCD116" points="110 28.2474939 113 29.060241 113 43.5903614 110 43.5903614"></polygon>
+            <rect id="Rectangle-94" fill="#FCD116" x="165" y="28.253012" width="3" height="8.07228916"></rect>
+            <rect id="Rectangle-94" fill="#FCD116" x="190" y="23.4096386" width="3" height="12.1084337"></rect>
+            <rect id="Rectangle-94" fill="#FCD116" x="215" y="17.7590361" width="3" height="17.7590361"></rect>
+            <rect id="Rectangle-94" fill="#FCD116" x="240" y="12.1084337" width="3" height="22.6024096"></rect>
+            <rect id="Rectangle-86" fill="#000000" x="140" y="37.1325301" width="60" height="29.8674699"></rect>
+            <polygon id="Path-102" fill="#000000" points="62 16.8225245 135.306641 32.9757742 142.501953 32.9757742 259.624023 7.73725762 257.12793 0 138.552734 26.0883142 64.7675781 10.117164"></polygon>
+        </g>
+    </g>
+</svg>

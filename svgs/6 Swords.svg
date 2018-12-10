@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>6 Swords</title>
+    <desc>Created with Sketch.</desc>
+    <g id="6-Swords" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M18,533 L342,533" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <g id="Label" transform="translate(122.000000, 40.000000)" fill="#000000" font-weight="normal" line-spacing="20">
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded">
+                <tspan x="0.5" y="547.830952">SCIENCE</tspan>
+            </text>
+            <text id="SWORDS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed">
+                <tspan x="41.5478873" y="12.6785714">SWORDS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded">
+                <tspan x="44.7592593" y="62.0535714">6</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(95.000000, 147.000000)">
+            <g id="Group" stroke="#000000" stroke-linecap="round" stroke-width="11">
+                <path d="M1.71747971,0.688596491 C1.71747971,0.688596491 -4.46544615,38.9057018 8.24390275,75.745614 C20.9532516,112.585526 28.8536568,119.815789 46.3719495,135.653509 C63.8902422,151.491228 85.1869902,156.311404 85.1869902,156.311404" id="Path-257"></path>
+                <path d="M83.942697,1.37719298 C83.942697,1.37719298 77.7597711,39.5942982 90.46912,76.4342105 C103.178469,113.274123 111.078874,120.504386 128.597167,136.342105 C146.115459,152.179825 167.412207,157 167.412207,157" id="Path-257" transform="translate(124.925616, 79.188596) scale(-1, 1) translate(-124.925616, -79.188596) "></path>
+                <path d="M85.3166807,158.377193 C85.3166807,158.377193 79.1337548,196.594298 91.8431037,233.434211 C104.552453,270.274123 112.452858,277.504386 129.971151,293.342105 C147.489443,309.179825 168.786191,314 168.786191,314" id="Path-257" transform="translate(126.299600, 236.188596) scale(-1, -1) translate(-126.299600, -236.188596) "></path>
+                <path d="M1.50367256,158.377193 C1.50367256,158.377193 -4.6792533,196.594298 8.0300956,233.434211 C20.7394445,270.274123 28.6398497,277.504386 46.1581424,293.342105 C63.6764351,309.179825 84.973183,314 84.973183,314" id="Path-257" transform="translate(42.486592, 236.188596) scale(1, -1) translate(-42.486592, -236.188596) "></path>
+            </g>
+            <g id="Group-2" transform="translate(5.000000, 9.000000)">
+                <g id="sword" transform="translate(82.000000, 9.389087) scale(1, -1) rotate(-270.000000) translate(-82.000000, -9.389087) translate(72.610913, -72.610913)">
+                    <rect id="Rectangle-65" x="2.88894994" y="34.2105671" width="12.3502613" height="129.116398"></rect>
+                    <rect id="Rectangle-63" fill="#000000" x="0" y="26.4856004" width="18.7781746" height="7.72496677" rx="3.86248339"></rect>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(5.055662, 34.210567)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="118.081635"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 123.599468) scale(1, -1) translate(-1.805594, -123.599468) " points="3.61118742 118.081635 3.61118742 129.117302 0 129.117302"></polygon>
+                    </g>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(11.194681, 98.769218) scale(-1, 1) translate(-11.194681, -98.769218) translate(9.389087, 34.210567)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="118.081635"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 123.599468) scale(1, -1) translate(-1.805594, -123.599468) " points="3.61118742 118.081635 3.61118742 129.117302 0 129.117302"></polygon>
+                    </g>
+                    <rect id="Rectangle-63" fill="#000000" x="5.05566239" y="0" width="7.94461233" height="30.8998671" rx="3.97230616"></rect>
+                </g>
+                <g id="sword" transform="translate(81.500000, 98.389087) scale(1, -1) rotate(-270.000000) translate(-81.500000, -98.389087) translate(72.110913, 39.889087)">
+                    <rect id="Rectangle-65" x="2.88894994" y="24.4063192" width="12.3502613" height="92.1135275"></rect>
+                    <rect id="Rectangle-63" fill="#000000" x="0" y="18.8952149" width="18.7781746" height="5.51110434" rx="2.75555217"></rect>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(5.055662, 24.406319)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="84.2411664"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 88.177669) scale(1, -1) translate(-1.805594, -88.177669) " points="3.61118742 84.2411664 3.61118742 92.1141726 0 92.1141726"></polygon>
+                    </g>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(11.194681, 70.463406) scale(-1, 1) translate(-11.194681, -70.463406) translate(9.389087, 24.406319)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="84.2411664"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 88.177669) scale(1, -1) translate(-1.805594, -88.177669) " points="3.61118742 84.2411664 3.61118742 92.1141726 0 92.1141726"></polygon>
+                    </g>
+                    <rect id="Rectangle-63" fill="#000000" x="5.05566239" y="0" width="7.94461233" height="22.0444174" rx="3.97230616"></rect>
+                </g>
+                <g id="sword" transform="translate(84.000000, 54.389087) scale(1, -1) rotate(-270.000000) translate(-84.000000, -54.389087) translate(74.610913, -24.610913)">
+                    <rect id="Rectangle-65" x="2.88894994" y="32.958961" width="12.3502613" height="124.392627"></rect>
+                    <rect id="Rectangle-63" fill="#000000" x="0" y="25.516615" width="18.7781746" height="7.44234603" rx="3.72117302"></rect>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(5.055662, 32.958961)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="113.761575"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 119.077537) scale(1, -1) translate(-1.805594, -119.077537) " points="3.61118742 113.761575 3.61118742 124.393498 0 124.393498"></polygon>
+                    </g>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(11.194681, 95.155710) scale(-1, 1) translate(-11.194681, -95.155710) translate(9.389087, 32.958961)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="113.761575"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 119.077537) scale(1, -1) translate(-1.805594, -119.077537) " points="3.61118742 113.761575 3.61118742 124.393498 0 124.393498"></polygon>
+                    </g>
+                    <rect id="Rectangle-63" fill="#000000" x="5.05566239" y="0" width="7.94461233" height="29.7693841" rx="3.97230616"></rect>
+                </g>
+            </g>
+            <g id="Group-2" transform="translate(84.000000, 254.000000) scale(-1, -1) translate(-84.000000, -254.000000) translate(2.000000, 200.000000)">
+                <g id="sword" transform="translate(82.000000, 9.389087) scale(1, -1) rotate(-270.000000) translate(-82.000000, -9.389087) translate(72.610913, -72.610913)">
+                    <rect id="Rectangle-65" x="2.88894994" y="34.2105671" width="12.3502613" height="129.116398"></rect>
+                    <rect id="Rectangle-63" fill="#000000" x="0" y="26.4856004" width="18.7781746" height="7.72496677" rx="3.86248339"></rect>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(5.055662, 34.210567)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="118.081635"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 123.599468) scale(1, -1) translate(-1.805594, -123.599468) " points="3.61118742 118.081635 3.61118742 129.117302 0 129.117302"></polygon>
+                    </g>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(11.194681, 98.769218) scale(-1, 1) translate(-11.194681, -98.769218) translate(9.389087, 34.210567)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="118.081635"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 123.599468) scale(1, -1) translate(-1.805594, -123.599468) " points="3.61118742 118.081635 3.61118742 129.117302 0 129.117302"></polygon>
+                    </g>
+                    <rect id="Rectangle-63" fill="#000000" x="5.05566239" y="0" width="7.94461233" height="30.8998671" rx="3.97230616"></rect>
+                </g>
+                <g id="sword" transform="translate(81.500000, 98.389087) scale(1, -1) rotate(-270.000000) translate(-81.500000, -98.389087) translate(72.110913, 39.889087)">
+                    <rect id="Rectangle-65" x="2.88894994" y="24.4063192" width="12.3502613" height="92.1135275"></rect>
+                    <rect id="Rectangle-63" fill="#000000" x="0" y="18.8952149" width="18.7781746" height="5.51110434" rx="2.75555217"></rect>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(5.055662, 24.406319)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="84.2411664"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 88.177669) scale(1, -1) translate(-1.805594, -88.177669) " points="3.61118742 84.2411664 3.61118742 92.1141726 0 92.1141726"></polygon>
+                    </g>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(11.194681, 70.463406) scale(-1, 1) translate(-11.194681, -70.463406) translate(9.389087, 24.406319)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="84.2411664"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 88.177669) scale(1, -1) translate(-1.805594, -88.177669) " points="3.61118742 84.2411664 3.61118742 92.1141726 0 92.1141726"></polygon>
+                    </g>
+                    <rect id="Rectangle-63" fill="#000000" x="5.05566239" y="0" width="7.94461233" height="22.0444174" rx="3.97230616"></rect>
+                </g>
+                <g id="sword" transform="translate(84.000000, 54.389087) scale(1, -1) rotate(-270.000000) translate(-84.000000, -54.389087) translate(74.610913, -24.610913)">
+                    <rect id="Rectangle-65" x="2.88894994" y="32.958961" width="12.3502613" height="124.392627"></rect>
+                    <rect id="Rectangle-63" fill="#000000" x="0" y="25.516615" width="18.7781746" height="7.44234603" rx="3.72117302"></rect>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(5.055662, 32.958961)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="113.761575"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 119.077537) scale(1, -1) translate(-1.805594, -119.077537) " points="3.61118742 113.761575 3.61118742 124.393498 0 124.393498"></polygon>
+                    </g>
+                    <g id="Rectangle-61-+-Triangle-7" transform="translate(11.194681, 95.155710) scale(-1, 1) translate(-11.194681, -95.155710) translate(9.389087, 32.958961)" fill="#000000">
+                        <rect id="Rectangle-61" x="0" y="0" width="3.61118742" height="113.761575"></rect>
+                        <polygon id="Triangle-7" transform="translate(1.805594, 119.077537) scale(1, -1) translate(-1.805594, -119.077537) " points="3.61118742 113.761575 3.61118742 124.393498 0 124.393498"></polygon>
+                    </g>
+                    <rect id="Rectangle-63" fill="#000000" x="5.05566239" y="0" width="7.94461233" height="29.7693841" rx="3.97230616"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

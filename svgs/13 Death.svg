@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>13 Death</title>
+    <desc>Created with Sketch.</desc>
+    <g id="13-Death" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" fill="#003F87" x="10" y="21" width="340" height="599" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="DEATH" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="133.5" y="591">DEATH</tspan>
+        </text>
+        <text id="XIII" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="160" y="63">XIII</tspan>
+        </text>
+        <g id="Group" transform="translate(63.000000, 203.000000)">
+            <g id="ring">
+                <ellipse id="Oval-72" fill="#FFFFFF" cx="115.196078" cy="115" rx="115.196078" ry="115"></ellipse>
+                <path d="M12.6715686,8.05 L234.285597,229.286813" id="Line" stroke="#003F87" stroke-width="35" stroke-linecap="square"></path>
+                <ellipse id="Oval-72" fill="#003F87" cx="115.196078" cy="115" rx="103.676471" ry="103.5"></ellipse>
+                <path d="M8.06372549,5.75 L229.677753,226.986813" id="Line" stroke="#003F87" stroke-width="35" stroke-linecap="square" transform="translate(118.651961, 116.150000) scale(-1, 1) translate(-118.651961, -116.150000) "></path>
+                <polygon id="Triangle-14" fill="#FFFFFF" points="48.0253529 18.6358637 61.329367 31.5763133 43.6119946 36.6480407"></polygon>
+                <polygon id="Triangle-14" fill="#FFFFFF" points="34.0393083 172.735864 20.7352941 185.676313 38.4526666 190.748041"></polygon>
+                <polygon id="Triangle-14" fill="#FFFFFF" points="200.084176 61.712177 213.388191 48.7717273 195.670818 43.7"></polygon>
+                <polygon id="Triangle-14" fill="#FFFFFF" points="186.098132 208.912177 172.794118 195.971727 190.51149 190.9"></polygon>
+            </g>
+            <g id="symbol" transform="translate(11.000000, 28.000000)">
+                <ellipse id="Oval-75" fill="#FFFFFF" cx="106.5" cy="87" rx="85.245098" ry="85.1"></ellipse>
+                <g id="Triangle-14-+-Triangle-14-+-Triangle-14" transform="translate(103.365608, 104.477638) rotate(-7.000000) translate(-103.365608, -104.477638) translate(11.365608, 10.977638)" fill="#003F87">
+                    <path d="M157,15 C157,15 175.338154,33.2981108 179.5,44 C183.504821,54.2981108 183.5,78 183.5,78 L96,76 L157,15 Z" id="Triangle-14"></path>
+                    <path d="M113.334998,98.782716 C113.334998,98.782716 135.19261,102.652337 142.768874,120.917453 C150.345138,139.182569 139.344916,161.488313 139.344916,161.488313 L52.3349979,159.782716 L113.334998,98.782716 Z" id="Triangle-14" transform="translate(98.883186, 130.135514) rotate(-240.000000) translate(-98.883186, -130.135514) "></path>
+                    <path d="M67.8993059,22.2694139 C67.8993059,22.2694139 84.5993942,39.8126327 88.3095613,49.3530626 C92.7660608,60.8126327 92.3993059,85.2694139 92.3993059,85.2694139 L6.89930591,83.2694139 L67.8993059,22.2694139 Z" id="Triangle-14" transform="translate(49.652969, 53.769414) rotate(-120.000000) translate(-49.652969, -53.769414) "></path>
+                </g>
+                <ellipse id="Oval-74" stroke="#003F87" stroke-width="11" fill="#FFFFFF" cx="105.348039" cy="85.85" rx="20.4754902" ry="20.45"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

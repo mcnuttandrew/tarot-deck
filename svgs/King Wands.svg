@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>King Wands</title>
+    <desc>Created with Sketch.</desc>
+    <g id="King-Wands" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(12.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="45" y="559">MASTER OF FLAME</tspan>
+                <tspan x="68.52" y="579">AND LIGHTNING</tspan>
+            </text>
+            <text id="WANDS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="160.026056" y="58.6785714">WANDS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="128.759259" y="68.0535714">KING</tspan>
+            </text>
+        </g>
+        <g id="Oval-69-+-Oval-70" transform="translate(81.000000, 70.000000) scale(-1, 1) translate(-81.000000, -70.000000) translate(65.000000, 46.000000)">
+            <path d="M18.1253382,45.5099822 C25.7606772,45.5099822 31.9503425,38.9409321 31.9503425,30.8375981 C31.9503425,27.170681 28.5874942,21.2459336 28.5874942,21.2459336 C28.5874942,21.2459336 26.8924132,16.5064327 19.8113148,6.95232145 C12.7302163,-2.60178981 25.1425267,1.76499306 24.1948514,1.15161157 C22.9592556,0.351873927 9.69545733,-2.26057131 10.3698478,6.26988494 C11.0442382,14.8003412 14.5934201,14.0222797 13.4046044,13.776686 C3.67432789,11.7665383 -1.88956566,16.5064323 0.928381662,16.5064323 C10.8888017,16.5064323 8.86563028,21.2459337 8.86563005,19.9423133 C8.86563028,22.3071422 4.30033392,26.5142109 4.30033392,30.8375981 C4.30033392,38.9409321 10.4899992,45.5099822 18.1253382,45.5099822 Z" id="Oval-69" fill="#FFFFFF"></path>
+            <path d="M17.788143,47.5572917 C22.2576097,47.5572917 26.2180236,43.8038911 25.5436332,36.9795263 C26.8924141,33.2261257 21.1600952,39.368054 21.1600952,36.9795263 C24.1948523,33.2261257 23.1832666,31.5200346 22.1716809,28.7902887 C21.0862203,25.3260692 16.7765573,22.9895787 16.7765573,22.9895787 C16.7765573,22.9895787 20.1485096,28.7902887 15.0905812,31.1788163 C11.7186289,33.2261257 9.69545754,34.8452629 9.69545754,39.368054 C9.69545754,43.8908451 13.3186762,47.5572917 17.788143,47.5572917 Z" id="Oval-70" fill="#003F87"></path>
+        </g>
+        <path d="M303.387955,39.781995 L298.57588,35.9655212 L292.602269,41.4413314 L295.920942,44.5940706 L293.266003,52.724819 L296.667643,53.7204208 L293.597871,60.6896337 L296.667643,65.169842 L294.593472,70.9775195 L296.667643,82.4269407 L293.597871,90.2258218 L296.667643,93.8763619 L296.667643,99.1862384 L301.230818,95.701632 C301.230818,95.701632 301.686226,89.8814305 301.230818,87.0730826 C301.022491,85.7884007 299.239614,78.2785997 299.239614,78.2785997 L304.549491,70.9775195 L299.239614,66.1654439 L302.22642,58.5324964 L299.239614,50.401748 L301.230818,45.4237388 L303.387955,39.781995 Z" id="Path-115" fill="#FFFFFF" transform="translate(298.575880, 67.575880) scale(-1, 1) rotate(-45.000000) translate(-298.575880, -67.575880) "></path>
+        <g id="Group-3" transform="translate(106.000000, 238.000000)">
+            <rect id="Rectangle-119" fill="#000000" x="90.7777778" y="40.1923077" width="9.85185185" height="21.1538462"></rect>
+            <polygon id="Rectangle-119" fill="#000000" points="123.65153 25.9203476 128.352395 25.3694661 130.981681 46.5384615 121.12983 46.5384615"></polygon>
+            <path d="M113.613078,39.5400146 C113.651912,37.0019132 116.517053,29.5905172 116.517053,29.5905172 L120.841319,27.7553488 C120.841319,27.7553488 124.210068,32.0783325 124.030163,37.5242487 L123.181237,63.2222182 C123.037952,67.5596207 129.726409,73.2487454 129.726409,73.2487454 L112.89953,76.2344258 C112.89953,76.2344258 113.414062,52.5472664 113.613078,39.5400146 Z" id="Rectangle-119" fill="#000000" transform="translate(121.312969, 51.994887) rotate(-290.000000) translate(-121.312969, -51.994887) "></path>
+            <g id="Group" transform="translate(47.148148, 55.000000)" fill="#000000">
+                <rect id="Rectangle-113" x="19.7037037" y="44.4230769" width="15.4814815" height="65.5769231"></rect>
+                <polygon id="Rectangle-113" transform="translate(39.501459, 26.661918) rotate(-330.000000) translate(-39.501459, -26.661918) " points="31.7607184 0.42075084 47.2421999 0.42075084 47.2421999 52.9030849 31.7607184 52.9030849"></polygon>
+                <polygon id="Rectangle-113" transform="translate(17.122666, 39.487906) scale(-1, 1) rotate(-330.000000) translate(-17.122666, -39.487906) " points="9.38192526 19.1677807 24.8634067 19.1677807 24.8634067 59.8080304 9.38192526 59.8080304"></polygon>
+            </g>
+            <g id="Group" transform="translate(38.166057, 50.229162) scale(-1, 1) rotate(-330.000000) translate(-38.166057, -50.229162) translate(19.666057, 18.729162)" fill="#000000">
+                <polygon id="Rectangle-113" points="13.3277891 23.2692308 22.483504 23.2692308 25.5851758 62.787045 10.3079006 62.787045"></polygon>
+                <path d="M23.8117852,1.66115097 C23.8117852,1.49742771 27.5070592,1.21039519 27.5070592,1.21039519 L30.3440869,27.7061809 L21.188372,27.7061809 C21.188372,27.7061809 23.8117852,9.68377469 23.8117852,1.66115097 Z" id="Rectangle-113" transform="translate(25.766229, 14.458288) rotate(-330.000000) translate(-25.766229, -14.458288) "></path>
+                <polygon id="Rectangle-113" transform="translate(9.715975, 19.026951) scale(-1, 1) rotate(-330.000000) translate(-9.715975, -19.026951) " points="7.21257388 6.56490959 11.9364595 6.56490959 13.7235363 31.4889919 5.7084144 31.4889919"></polygon>
+            </g>
+            <g id="Group" transform="translate(94.178926, 31.759787) scale(-1, 1) rotate(-341.000000) translate(-94.178926, -31.759787) translate(76.178926, 7.759787)" fill="#000000">
+                <polygon id="Rectangle-113" points="11.715308 19.6110618 25.9898704 19.1234995 26.9925832 47.2845789 11.715308 47.2845789"></polygon>
+                <polygon id="Rectangle-113" transform="translate(26.556818, 14.055254) rotate(-330.000000) translate(-26.556818, -14.055254) " points="27.3933721 4.03435542 28.3273451 4.03435542 31.1346758 24.0761517 21.9789609 24.0761517"></polygon>
+                <polygon id="Rectangle-113" transform="translate(10.428178, 12.899021) scale(-1, 1) rotate(-330.000000) translate(-10.428178, -12.899021) " points="8.61909038 1.33427796 11.2265209 1.33427796 15.0060356 24.4637642 5.8503207 24.4637642"></polygon>
+            </g>
+            <path d="" id="Path-148" stroke="#979797"></path>
+            <g id="Group-2" transform="translate(33.074074, 10.576923)">
+                <path d="M3.82010582,3.92419175 L12.4181418,9.91826052" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.119124, 6.921226) scale(-1, 1) translate(-8.119124, -6.921226) "></path>
+                <path d="M3.82010582,6.86733556 L12.4181418,12.8614043" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.119124, 9.864370) scale(-1, 1) translate(-8.119124, -9.864370) "></path>
+                <path d="M3.82010582,9.81047938 L12.4181418,15.8045481" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.119124, 12.807514) scale(-1, 1) translate(-8.119124, -12.807514) "></path>
+                <path d="M3.82010582,12.7536232 L12.4181418,18.747692" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.119124, 15.750658) scale(-1, 1) translate(-8.119124, -15.750658) "></path>
+                <path d="M3.82010582,15.696767 L12.4181418,21.6908358" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.119124, 18.693801) scale(-1, 1) translate(-8.119124, -18.693801) "></path>
+                <path d="M0,3.92419175 L8.59803602,9.91826052" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,6.86733556 L8.59803602,12.8614043" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,9.81047938 L8.59803602,15.8045481" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,12.7536232 L8.59803602,18.747692" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,15.696767 L8.59803602,21.6908358" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="" id="Path-159" stroke="#979797"></path>
+                <polyline id="Path-160" stroke="#000000" stroke-width="2" points="3.91919914 0.354001185 6.59052192 9.15924174 8.53671475 0.341306961"></polyline>
+            </g>
+            <g id="Group-2" transform="translate(15.157443, 34.318042) rotate(-62.000000) translate(-15.157443, -34.318042) translate(7.657443, 21.318042)">
+                <path d="M4.57496521,4.58422627 L14.8719877,11.5864752" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(9.723476, 8.085351) scale(-1, 1) translate(-9.723476, -8.085351) "></path>
+                <path d="M4.57496521,8.02239597 L14.8719877,15.0246449" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(9.723476, 11.523520) scale(-1, 1) translate(-9.723476, -11.523520) "></path>
+                <path d="M4.57496521,11.4605657 L14.8719877,18.4628146" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(9.723476, 14.961690) scale(-1, 1) translate(-9.723476, -14.961690) "></path>
+                <path d="M4.57496521,14.8987354 L14.8719877,21.9009843" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(9.723476, 18.399860) scale(-1, 1) translate(-9.723476, -18.399860) "></path>
+                <path d="M4.57496521,18.3369051 L14.8719877,25.339154" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(9.723476, 21.838030) scale(-1, 1) translate(-9.723476, -21.838030) "></path>
+                <path d="M8.52651283e-14,4.58422627 L10.2970225,11.5864752" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M2.84217094e-14,8.02239597 L10.2970225,15.0246449" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-2.13162821e-14,11.4605657 L10.2970225,18.4628146" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M3.26849658e-13,14.8987354 L10.2970225,21.9009843" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M2.7000624e-13,18.3369051 L10.2970225,25.339154" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="" id="Path-159" stroke="#979797"></path>
+                <polyline id="Path-160" stroke="#000000" stroke-width="2" points="4.69363954 0.413542873 7.89282022 10.6997923 10.2235841 0.398713528"></polyline>
+            </g>
+            <g id="Group-2" transform="translate(121.037037, 15.512821)">
+                <path d="M2.81481481,2.82051282 L9.15020978,7.12874975" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 4.974631) scale(-1, 1) translate(-5.982512, -4.974631) "></path>
+                <path d="M2.81481481,4.93589744 L9.15020978,9.24413436" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 7.090016) scale(-1, 1) translate(-5.982512, -7.090016) "></path>
+                <path d="M2.81481481,7.05128205 L9.15020978,11.359519" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 9.205401) scale(-1, 1) translate(-5.982512, -9.205401) "></path>
+                <path d="M2.81481481,9.16666667 L9.15020978,13.4749036" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 11.320785) scale(-1, 1) translate(-5.982512, -11.320785) "></path>
+                <path d="M2.81481481,11.2820513 L9.15020978,15.5902882" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 13.436170) scale(-1, 1) translate(-5.982512, -13.436170) "></path>
+                <path d="M0,2.82051282 L6.33539497,7.12874975" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,4.93589744 L6.33539497,9.24413436" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,7.05128205 L6.33539497,11.359519" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,9.16666667 L6.33539497,13.4749036" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,11.2820513 L6.33539497,15.5902882" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="" id="Path-159" stroke="#979797"></path>
+                <polyline id="Path-160" stroke="#000000" stroke-width="2" points="2.88783095 0.254438351 4.85617405 6.583205 6.29021087 0.245314378"></polyline>
+            </g>
+            <g id="Group-2" transform="translate(99.480064, 10.739404) rotate(-352.000000) translate(-99.480064, -10.739404) translate(93.480064, 0.739404)">
+                <path d="M3.48786295,3.4949234 L11.3381092,8.83329943" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(7.412986, 6.164111) scale(-1, 1) translate(-7.412986, -6.164111) "></path>
+                <path d="M3.48786295,6.11611595 L11.3381092,11.454492" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(7.412986, 8.785304) scale(-1, 1) translate(-7.412986, -8.785304) "></path>
+                <path d="M3.48786295,8.7373085 L11.3381092,14.0756845" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(7.412986, 11.406497) scale(-1, 1) translate(-7.412986, -11.406497) "></path>
+                <path d="M3.48786295,11.358501 L11.3381092,16.6968771" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(7.412986, 14.027689) scale(-1, 1) translate(-7.412986, -14.027689) "></path>
+                <path d="M3.48786295,13.9796936 L11.3381092,19.3180696" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(7.412986, 16.648882) scale(-1, 1) translate(-7.412986, -16.648882) "></path>
+                <path d="M2.84217094e-14,3.4949234 L7.85024622,8.83329943" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M7.10542736e-14,6.11611595 L7.85024622,11.454492" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-5.68434189e-14,8.7373085 L7.85024622,14.0756845" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M0,11.358501 L7.85024622,16.6968771" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-7.10542736e-14,13.9796936 L7.85024622,19.3180696" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="" id="Path-159" stroke="#979797"></path>
+                <polyline id="Path-160" stroke="#000000" stroke-width="2" points="3.57833791 0.315276903 6.01732996 8.15730992 7.79425818 0.303971304"></polyline>
+            </g>
+            <g id="Group-2" transform="translate(77.823723, 21.959018) rotate(-45.000000) translate(-77.823723, -21.959018) translate(70.823723, 9.959018)">
+                <path d="M4.19072575,4.199209 L13.6229281,10.6133572" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.906827, 7.406283) scale(-1, 1) translate(-8.906827, -7.406283) "></path>
+                <path d="M4.19072575,7.34861576 L13.6229281,13.762764" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.906827, 10.555690) scale(-1, 1) translate(-8.906827, -10.555690) "></path>
+                <path d="M4.19072575,10.4980225 L13.6229281,16.9121707" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.906827, 13.705097) scale(-1, 1) translate(-8.906827, -13.705097) "></path>
+                <path d="M4.19072575,13.6474293 L13.6229281,20.0615775" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.906827, 16.854503) scale(-1, 1) translate(-8.906827, -16.854503) "></path>
+                <path d="M4.19072575,16.796836 L13.6229281,23.2109842" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(8.906827, 20.003910) scale(-1, 1) translate(-8.906827, -20.003910) "></path>
+                <path d="M2.13162821e-14,4.199209 L9.43220232,10.6133572" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M2.13162821e-14,7.34861576 L9.43220232,13.762764" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-5.68434189e-14,10.4980225 L9.43220232,16.9121707" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-1.42108547e-13,13.6474293 L9.43220232,20.0615775" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-1.42108547e-13,16.796836 L9.43220232,23.2109842" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="" id="Path-159" stroke="#979797"></path>
+                <polyline id="Path-160" stroke="#000000" stroke-width="2" points="4.29943293 0.37881048 7.22992274 9.8011445 9.36493176 0.365226613"></polyline>
+            </g>
+            <g id="Group-2" transform="translate(142.445352, 41.447335) scale(-1, 1) rotate(-67.000000) translate(-142.445352, -41.447335) translate(137.445352, 33.447335)">
+                <path d="M2.81481481,2.82051282 L9.15020978,7.12874975" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 4.974631) scale(-1, 1) translate(-5.982512, -4.974631) "></path>
+                <path d="M2.81481481,4.93589744 L9.15020978,9.24413436" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 7.090016) scale(-1, 1) translate(-5.982512, -7.090016) "></path>
+                <path d="M2.81481481,7.05128205 L9.15020978,11.359519" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 9.205401) scale(-1, 1) translate(-5.982512, -9.205401) "></path>
+                <path d="M2.81481481,9.16666667 L9.15020978,13.4749036" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 11.320785) scale(-1, 1) translate(-5.982512, -11.320785) "></path>
+                <path d="M2.81481481,11.2820513 L9.15020978,15.5902882" id="Path-149" stroke="#000000" stroke-width="2" transform="translate(5.982512, 13.436170) scale(-1, 1) translate(-5.982512, -13.436170) "></path>
+                <path d="M5.68434189e-14,2.82051282 L6.33539497,7.12874975" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-2.4158453e-13,4.93589744 L6.33539497,9.24413436" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-2.84217094e-13,7.05128205 L6.33539497,11.359519" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-8.52651283e-14,9.16666667 L6.33539497,13.4749036" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="M-1.98951966e-13,11.2820513 L6.33539497,15.5902882" id="Path-149" stroke="#000000" stroke-width="2"></path>
+                <path d="" id="Path-159" stroke="#979797"></path>
+                <polyline id="Path-160" stroke="#000000" stroke-width="2" points="2.88783095 0.254438351 4.85617405 6.583205 6.29021087 0.245314378"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

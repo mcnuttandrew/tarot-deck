@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>King Coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="King-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(10.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#AF1E2D" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="78.42" y="559">LORD OF WILD</tspan>
+                <tspan x="43.5" y="579">AND FERTILE LAND</tspan>
+            </text>
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="161.75" y="58.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="128.759259" y="68.0535714">KING</tspan>
+            </text>
+        </g>
+        <g id="cheesy-earth" transform="translate(281.000000, 39.000000)" stroke="#000000">
+            <ellipse id="Oval-21" stroke-width="8" cx="19.5" cy="20.0845026" rx="19.5" ry="19.611926"></ellipse>
+            <ellipse id="Oval-22" stroke-width="4" cx="19.6625" cy="20.0845026" rx="8.2875" ry="19.611926"></ellipse>
+            <path d="M3.4125,10.7688377 L37.2125,10.7688377" id="Line" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M1.1375,20.5748007 L37.8639381,20.5748007" id="Line" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M2.7625,29.073302 L36.5625,29.073302" id="Line" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M19.7349398,0.236288265 L19.7349398,38.9904445" id="Line" stroke-width="4" stroke-linecap="square"></path>
+        </g>
+        <g id="coin" transform="translate(36.000000, 39.000000)" stroke="#000000">
+            <circle id="Oval-31" stroke-width="3" cx="24" cy="24" r="24"></circle>
+            <circle id="Oval-31" stroke-width="2" cx="24" cy="24" r="16.5333333"></circle>
+            <circle id="Oval-31" cx="24" cy="24" r="9.06666667"></circle>
+            <path d="M24,27.7333333 C26.0618631,27.7333333 27.7333333,26.0618631 27.7333333,24 C27.7333333,21.9381369 26.0618631,20.2666667 24,20.2666667 C21.9381369,20.2666667 20.2666667,21.9381369 20.2666667,24 C20.2666667,26.0618631 21.9381369,27.7333333 24,27.7333333 Z" id="Oval-31" stroke-width="0.5"></path>
+        </g>
+        <g id="Group" transform="translate(79.000000, 208.000000)">
+            <path d="M28.873176,56.0856147 L28.8731757,47.7641499 L25.6845175,31.2794166 L45.6252878,20.7002157 L71.3568412,16.7499036 L93.1333668,1.36424205e-12 C93.1333668,1.36424205e-12 97.8792505,11.7261961 101,12.2180579 C105.234948,12.8855287 115.200459,3.47799782 115.200459,3.47799782 L130.676521,16.7499031 L147.813265,8.43785599 L167.078106,12.2180579 L171.605787,36.492468 L191.698278,53.1192093 L192.717227,68.2008847 L171.605784,87.5530092 C171.605784,87.5530092 188.046184,89.4418443 192.717228,95.0246264 C195.902429,98.8315457 195.174518,115.722113 195.174518,115.722113 L202,138.86595 L185.61629,155.974179 L161.782525,151.471705 L143.742697,135.961222 L124.604176,135.179971 L86.8587595,137.726381 L79.8752668,137.726381 L66.5034067,151.471705 L45.6252888,157.709968 L16.8377635,155.97418 L17.3605287,140.892504 L1.57715589,121.56975 L10.0462467,102.844683 L0,86.8745541 C0,86.8745541 7.97880921,82.6865064 10.0462467,79.5231552 C12.4493866,75.8461516 13.411732,66.3534896 13.411732,66.3534896 L28.873176,56.0856147 Z" id="Path-97" fill="#000000"></path>
+            <path d="M88.1270851,136.479603 C88.1270851,136.479603 93.2343754,140.705078 96.7747836,149.442568 C100.932287,159.703008 99.5825059,204.128255 96.5295344,208.048952 C93.4765629,211.969649 81.8918919,225.847182 81.8918919,225.847182 L145.189454,225.847182 C145.189454,225.847182 134.357422,219.716795 131.442884,211.969652 C128.528346,204.222509 125.083931,157.322961 127.207005,148.178082 C129.330079,139.033203 136.419843,130.297674 136.419843,130.297674 L88.1270851,136.479603 Z" id="Path-98" fill="#000000"></path>
+            <polygon id="Path-99" fill="#AF1E2D" points="98.2702703 132.861107 105.617082 145.323049 105.142578 130.297674"></polygon>
+            <polygon id="Path-99" fill="#AF1E2D" transform="translate(123.781514, 137.810362) scale(-1, 1) translate(-123.781514, -137.810362) " points="120.108108 132.861107 127.45492 145.323049 126.980416 130.297674"></polygon>
+        </g>
+    </g>
+</svg>

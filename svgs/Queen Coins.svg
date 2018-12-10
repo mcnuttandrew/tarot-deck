@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Queen Coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Queen-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(10.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="62.68" y="559">MATRON OF THE</tspan>
+                <tspan x="52" y="579">HOUSE OF DESIRE</tspan>
+            </text>
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="161.75" y="58.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="107.259259" y="68.0535714">QUEEN</tspan>
+            </text>
+        </g>
+        <g id="coin" transform="translate(93.000000, 96.000000)" stroke="#000000">
+            <circle id="Oval-31" stroke-width="3" cx="87" cy="87" r="87"></circle>
+            <circle id="Oval-31" stroke-width="2" cx="87" cy="87" r="59.9333333"></circle>
+            <circle id="Oval-31" cx="87" cy="87" r="32.8666667"></circle>
+            <path d="M87,100.533333 C94.4742536,100.533333 100.533333,94.4742536 100.533333,87 C100.533333,79.5257464 94.4742536,73.4666667 87,73.4666667 C79.5257464,73.4666667 73.4666667,79.5257464 73.4666667,87 C73.4666667,94.4742536 79.5257464,100.533333 87,100.533333 Z" id="Oval-31" stroke-width="0.5"></path>
+        </g>
+        <g id="tower" transform="translate(124.000000, 107.000000)">
+            <polygon id="Rectangle-107" fill="#000000" points="20 99 93 99 93 390 20 390"></polygon>
+            <polygon id="Triangle-9" fill="#000000" transform="translate(74.964111, 98.500000) rotate(-270.000000) translate(-74.964111, -98.500000) " points="75.4816895 80.5358887 85.4641113 116.464111 64.4641113 116.464111"></polygon>
+            <polygon id="Triangle-9" fill="#000000" transform="translate(37.947998, 98.500000) scale(-1, 1) rotate(-270.000000) translate(-37.947998, -98.500000) " points="38.5471191 80.447998 48.447998 116.552002 27.447998 116.552002"></polygon>
+            <polygon id="Triangle-8" stroke="#003F87" stroke-width="3" fill="#000000" points="56.5 0 113 389 0 389"></polygon>
+            <path d="M42,131 L71.0561523,131" id="Path-121" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M43,123 L69.1505371,123" id="Path-121" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M45,115 L68.2449219,115" id="Path-121" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M46,107 L66.3393066,107" id="Path-121" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M48,99 L65.4336914,99" id="Path-121" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M49,91 L63.5280762,91" id="Path-121" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

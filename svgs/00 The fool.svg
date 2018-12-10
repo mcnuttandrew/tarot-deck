@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>00 The fool</title>
+    <desc>Created with Sketch.</desc>
+    <g id="00-The-fool" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-FOOL-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="111.508" y="584.239868">THE FOOL </tspan>
+        </text>
+        <text id="0" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="171.5" y="63">0</tspan>
+        </text>
+        <g id="Oval-6-+-Path-16" transform="translate(90.000000, 62.061507)" fill="#000000">
+            <circle id="Oval-6" cx="98" cy="117" r="22"></circle>
+            <path d="M-9.09494702e-13,189 C-9.53765722e-09,194.061507 1,268.9385 1,268.9385 L20,266 L29,199.938493 L49,194 C49,194 38,214 38,240 C38,266 51,286.5 51,286.5 L21,422 L38,432.9385 L84,303 L108,329 L134,437 L159,427 L131,307 C131,307 96.5,258.000001 96.5,258 C96.5,257.999999 108,206.938492 108,206.938492 L122,228.938492 L180,240 L190,219.938492 C190,219.938492 140,210.938493 136,206.938492 C132,202.938491 127.009851,171.294605 118,156.938493 C108.990149,142.58238 96.5,144 96.5,144 C96.5,144 94,140 74,144 C54,148 9.5358389e-09,183.938493 -9.09494702e-13,189 Z" id="Path-16"></path>
+            <polygon id="Triangle-6" transform="translate(121.574072, 47.469247) rotate(-341.000000) translate(-121.574072, -47.469247) " points="121.574072 3.46924651 139.074072 91.4692465 104.074072 91.4692465"></polygon>
+        </g>
+    </g>
+</svg>

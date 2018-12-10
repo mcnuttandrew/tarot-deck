@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>21 The world</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.1%" y="-3.1%" width="106.2%" height="106.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.5%" y="-2.4%" width="104.9%" height="104.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="21-The-world" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-WORLD" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="101.5" y="591">THE WORLD</tspan>
+        </text>
+        <text id="XXI" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="159" y="63">XXI</tspan>
+        </text>
+        <g id="Group" transform="translate(48.000000, 162.000000)" stroke="#FFFFFF" stroke-width="13">
+            <ellipse id="Oval-1" filter="url(#filter-1)" cx="132" cy="135" rx="104" ry="106"></ellipse>
+            <ellipse id="Oval-1" filter="url(#filter-2)" cx="132" cy="134.5" rx="132" ry="134.5"></ellipse>
+        </g>
+        <g id="bathroom-woman" transform="translate(138.000000, 217.000000)" fill="#FFFFFF">
+            <rect id="Rectangle-15" x="20.2900635" y="35.2224824" width="43.1483124" height="73.0679157"></rect>
+            <path d="M8.86240621,43.8065013 C9.43884856,40.1713567 12.8540187,37.6908262 16.4921886,38.266364 L16.4921886,38.266364 C20.1295586,38.8417752 22.6104164,42.2583494 22.0344885,45.8902497 L14.2158235,95.1960959 C13.6393811,98.8312405 10.224211,101.311771 6.58604114,100.736233 L6.58604114,100.736233 C2.94867106,100.160822 0.46781332,96.7442478 1.0437412,93.1123475 L8.86240621,43.8065013 L8.86240621,43.8065013 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="8.91704126" y="34.7113003" width="66.1406344" height="20.6088993" rx="10.3044496"></rect>
+            <path d="M20.2900635,108.271653 C20.2900635,103.936159 23.811272,100.421546 28.1352112,100.421546 L28.1352112,100.421546 C32.4679666,100.421546 35.9803589,103.926021 35.9803589,108.271653 L35.9803589,152.149892 C35.9803589,156.485387 32.4591503,160 28.1352112,160 L28.1352112,160 C23.8024557,160 20.2900635,156.495525 20.2900635,152.149892 L20.2900635,108.271653 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="47.7480804" y="100.421546" width="15.6902954" height="59.5784543" rx="7.8451477"></rect>
+            <ellipse id="Oval-7" cx="42.0603484" cy="15.9250585" rx="16.6709389" ry="15.9250585"></ellipse>
+            <path d="M75.0233292,44.4554138 C74.4472502,40.8225605 71.0322691,38.3439042 67.3939691,38.9194625 L67.3939691,38.9194625 C63.7564689,39.4948943 61.2743542,42.9042242 61.8507756,46.5392367 L70.231564,99.3899298 C70.807643,103.022783 74.2226241,105.501439 77.8609241,104.925881 L77.8609241,104.925881 C81.4984244,104.350449 83.980539,100.941119 83.4041176,97.3061069 L75.0233292,44.4554138 L75.0233292,44.4554138 Z" id="Rectangle-15"></path>
+            <polygon id="Path-42" points="12.9537902 119.105431 43.4891341 119.105431 43.4891341 43.9188134 21.5198434 59.2971246"></polygon>
+            <polygon id="Path-42" transform="translate(56.061135, 81.554970) scale(-1, 1) translate(-56.061135, -81.554970) " points="40.793463 119.148279 71.3288069 119.148279 71.3288069 43.9616613 49.3595162 59.3399725"></polygon>
+        </g>
+    </g>
+</svg>

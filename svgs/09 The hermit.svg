@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>09 The hermit </title>
+    <desc>Created with Sketch.</desc>
+    <g id="09-The-hermit-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-HERMIT" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="98" y="591">THE HERMIT</tspan>
+        </text>
+        <text id="IX" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="167.5" y="63">IX</tspan>
+        </text>
+        <g id="Group" transform="translate(101.000000, 170.000000)">
+            <polygon id="Triangle-18" stroke="#000000" stroke-width="4" fill="#000000" points="104.329004 0 208.658009 238.91342 0 238.91342"></polygon>
+            <polygon id="Triangle-18" fill="#FFFFFF" points="103.520252 11.299959 134.252827 82.3282731 72.7876774 82.3282731"></polygon>
+        </g>
+        <g id="Group" transform="translate(64.000000, 201.000000)">
+            <polygon id="Triangle-18" stroke="#000000" stroke-width="4" fill="#000000" points="57.3809524 0 114.761905 207.614719 0 207.614719"></polygon>
+            <polygon id="Triangle-18" fill="#FFFFFF" points="56.9361388 9.81961507 73.839055 71.5429098 40.0332226 71.5429098"></polygon>
+        </g>
+        <g id="bathroom-man" transform="translate(169.000000, 374.000000)" fill="#FFFFFF">
+            <rect id="Rectangle-15" x="4.01153682" y="8.24605657" width="9.59280545" height="17.1061812"></rect>
+            <rect id="Rectangle-15" x="0" y="9.56191666" width="2.96504896" height="13.948117" rx="1.48252448"></rect>
+            <rect id="Rectangle-15" x="14.6508301" y="9.56191666" width="2.96504896" height="13.948117" rx="1.48252448"></rect>
+            <rect id="Rectangle-15" x="0" y="8.24605657" width="17.5286718" height="4.82482034" rx="2.41241017"></rect>
+            <path d="M4.01153682,25.2483703 C4.01153682,24.2883134 4.78570208,23.5100336 5.75568327,23.5100336 L5.75568327,23.5100336 C6.71894875,23.5100336 7.49982971,24.2999091 7.49982971,25.2483703 L7.49982971,35.719814 C7.49982971,36.6798708 6.72566446,37.4581506 5.75568327,37.4581506 L5.75568327,37.4581506 C4.79241779,37.4581506 4.01153682,36.6682752 4.01153682,35.719814 L4.01153682,25.2483703 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="10.1160494" y="23.5100336" width="3.48829289" height="13.948117" rx="1.74414645"></rect>
+            <ellipse id="Oval-7" cx="8.85154321" cy="3.72827026" rx="3.7063112" ry="3.72827026"></ellipse>
+        </g>
+    </g>
+</svg>

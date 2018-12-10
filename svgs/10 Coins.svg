@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>10 Coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="10-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M18,533 L342,533" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <g id="Label" transform="translate(125.000000, 40.000000)" fill="#FFFFFF" font-weight="normal" line-spacing="20">
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded">
+                <tspan x="0" y="547.830952">WEALTH</tspan>
+            </text>
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed">
+                <tspan x="42.75" y="12.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded">
+                <tspan x="33.7592593" y="62.0535714">10</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(101.000000, 180.000000)" stroke="#000000">
+            <g id="coin-+-coin" transform="translate(65.447699, 0.000000)">
+                <g id="coin">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 128.898305)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+            </g>
+            <g id="coin-+-coin" transform="translate(79.000000, 78.000000) rotate(-324.000000) translate(-79.000000, -78.000000) translate(65.447699, 0.000000)">
+                <g id="coin" transform="translate(-0.000000, 0.000000)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 128.898305)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+            </g>
+            <g id="coin-+-coin" transform="translate(79.000000, 78.000000) rotate(-288.000000) translate(-79.000000, -78.000000) translate(65.447699, 0.000000)">
+                <g id="coin" transform="translate(0.000000, -0.000000)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+                <g id="coin" transform="translate(-0.000000, 128.898305)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+            </g>
+            <g id="coin-+-coin" transform="translate(79.000000, 78.000000) rotate(-252.000000) translate(-79.000000, -78.000000) translate(65.447699, 0.000000)">
+                <g id="coin" transform="translate(0.000000, 0.000000)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 128.898305)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+            </g>
+            <g id="coin-+-coin" transform="translate(79.000000, 78.000000) rotate(-220.000000) translate(-79.000000, -78.000000) translate(65.447699, 0.000000)">
+                <g id="coin" transform="translate(-0.000000, 0.000000)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 128.898305)">
+                    <ellipse id="Oval-31" stroke-width="3" fill="#FFFFFF" cx="13.5523013" cy="13.5508475" rx="13.5523013" ry="13.5508475"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="13.5523013" cy="13.5508475" rx="9.33602975" ry="9.33502825"></ellipse>
+                    <ellipse id="Oval-31" cx="13.5523013" cy="13.5508475" rx="5.11975825" ry="5.11920904"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="13.5523013" cy="13.5508475" rx="2.10813575" ry="2.1079096"></ellipse>
+                </g>
+            </g>
+        </g>
+        <path d="M175.785804,341.624871 L182.251207,341.624871 C188.465294,356.161547 200.989801,366.094776 215.428129,366.094776 C231.968351,366.094776 245.996975,353.058927 250.904172,335 L250.904172,368.541767 C248.841763,368.541767 247.169851,374.567319 247.169851,382.000214 C247.169851,389.43311 248.841763,395.458662 250.904172,395.458662 L250.904172,407.693615 L109,407.693615 L109,395.458662 C111.062408,395.458662 112.73432,389.43311 112.73432,382.000214 C112.73432,374.567319 111.062408,368.541767 109,368.541767 L109,340.581552 C115.052291,355.684179 127.82769,366.094776 142.608883,366.094776 C157.04721,366.094776 169.571718,356.161547 175.785804,341.624871 Z M179.952086,395.458662 C182.014494,395.458662 183.686406,389.43311 183.686406,382.000214 C183.686406,374.567319 182.014494,368.541767 179.952086,368.541767 C177.889678,368.541767 176.217765,374.567319 176.217765,382.000214 C176.217765,389.43311 177.889678,395.458662 179.952086,395.458662 Z" id="crown" fill="#000000"></path>
+        <path d="M175.595143,342.832586 L181.654857,342.832586 C187.479023,355.630784 199.217645,364.376073 212.75,364.376073 C228.25236,364.376073 241.400719,352.899214 246,337 L246,366.530421 C244.067003,366.530421 242.5,371.835362 242.5,378.379339 C242.5,384.923315 244.067003,390.228257 246,390.228257 L246,401 L113,401 L113,390.228257 C114.932997,390.228257 116.5,384.923315 116.5,378.379339 C116.5,371.835362 114.932997,366.530421 113,366.530421 L113,341.91404 C118.672523,355.210505 130.646294,364.376073 144.5,364.376073 C158.032355,364.376073 169.770977,355.630784 175.595143,342.832586 Z M179.5,390.228257 C181.432997,390.228257 183,384.923315 183,378.379339 C183,371.835362 181.432997,366.530421 179.5,366.530421 C177.567003,366.530421 176,371.835362 176,378.379339 C176,384.923315 177.567003,390.228257 179.5,390.228257 Z" id="crown" fill="#FFFFFF"></path>
+    </g>
+</svg>

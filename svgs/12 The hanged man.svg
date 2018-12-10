@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>12 The hanged man</title>
+    <desc>Created with Sketch.</desc>
+    <g id="12-The-hanged-man" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#AF1E2D" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-HANGED-MAN-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="57.508" y="584.239868">THE HANGED MAN </tspan>
+        </text>
+        <text id="XII" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="165" y="63">XII</tspan>
+        </text>
+        <g id="bathroom-man" transform="translate(180.000000, 320.500000) scale(1, -1) translate(-180.000000, -320.500000) translate(106.000000, 164.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="33.7029703" y="68.9039813" width="80.5940594" height="142.93911"></rect>
+            <rect id="Rectangle-15" x="0" y="79.8992974" width="24.9108911" height="116.550351" rx="12.4554455"></rect>
+            <rect id="Rectangle-15" x="123.089109" y="79.8992974" width="24.9108911" height="116.550351" rx="12.4554455"></rect>
+            <rect id="Rectangle-15" x="0" y="68.9039813" width="147.267327" height="40.3161593" rx="20.1580796"></rect>
+            <path d="M33.7029703,211.112806 C33.7029703,203.014568 40.2617708,196.449649 48.3564356,196.449649 L48.3564356,196.449649 C56.4493211,196.449649 63.009901,203.009083 63.009901,211.112806 L63.009901,255.336843 C63.009901,263.435081 56.4511005,270 48.3564356,270 L48.3564356,270 C40.2635502,270 33.7029703,263.440566 33.7029703,255.336843 L33.7029703,211.112806 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="84.990099" y="196.449649" width="29.3069307" height="116.550351" rx="14.6534653"></rect>
+            <ellipse id="Oval-7" cx="74.3663366" cy="31.1533958" rx="31.1386139" ry="31.1533958"></ellipse>
+            <rect id="Rectangle-15" transform="translate(70.775176, 255.346535) rotate(-270.000000) translate(-70.775176, -255.346535) " x="56.1217103" y="218.571359" width="29.3069307" height="73.5503513" rx="14.6534653"></rect>
+        </g>
+        <path d="M190.5,200.5 L190.5,244.5" id="Line" stroke="#AF1E2D" stroke-linecap="square"></path>
+        <rect id="Rectangle-37" fill="#000000" x="64" y="142" width="232" height="11" rx="5.5"></rect>
+    </g>
+</svg>

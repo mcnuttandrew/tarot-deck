@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Knight Cups</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Knight-Cups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(10.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="70.2" y="559">SAILOR OF THE</tspan>
+                <tspan x="42" y="579">BOTTOMLESS DEEP</tspan>
+            </text>
+            <text id="CUPS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="163.438028" y="58.6785714">CUPS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="102.759259" y="68.0535714">KNIGHT</tspan>
+            </text>
+        </g>
+        <g id="cup" transform="translate(93.000000, 406.000000) rotate(-270.000000) translate(-93.000000, -406.000000) translate(87.000000, 398.000000)" fill="#000000" stroke="#000000">
+            <path d="M6.01382206,7.54951505e-09 C6.01382206,7.54951505e-09 5.42448869,3.68758147 7.13138458,6.64996614 C8.83828047,9.61235081 11.9741553,10.3443921 11.9741553,10.3443921 L11.9741553,2.27373675e-13 L6.01382206,7.54951505e-09 Z" id="Path-95" transform="translate(8.944824, 5.172196) scale(-1, 1) translate(-8.944824, -5.172196) "></path>
+            <path d="M0.0983291041,7.54951505e-09 C0.0983291041,7.54951505e-09 -0.491004267,3.68758147 1.21589162,6.64996614 C2.92278751,9.61235081 6.05866233,10.3443921 6.05866233,10.3443921 L6.05866233,2.27373675e-13 L0.0983291041,7.54951505e-09 Z" id="Path-95"></path>
+            <path d="M2.02816901,15.55984 C2.02816901,15.55984 3.05822177,15.3323247 4.63581489,13.4909616 C6.21340801,11.6495984 6.00172463,8.02321145 6.00172463,8.02321145 L6.00172463,15.55984 L2.02816901,15.55984 Z" id="Path-97"></path>
+            <path d="M5.91549296,15.55984 C5.91549296,15.55984 6.94554571,15.3323247 8.52313883,13.4909616 C10.100732,11.6495984 9.88904858,8.02321145 9.88904858,8.02321145 L9.88904858,15.55984 L5.91549296,15.55984 Z" id="Path-97" transform="translate(7.907009, 11.791526) scale(-1, 1) translate(-7.907009, -11.791526) "></path>
+        </g>
+        <g id="Group" transform="translate(39.000000, 305.000000)" stroke="#000000" stroke-linecap="round" stroke-width="9">
+            <path d="M0,1.31145264 C0,1.31145264 5.96838517,15.0432781 19.1053068,14.6778355 C32.2422284,14.3123929 33.2876519,-0.252959527 46.6266396,0.00334307415 C59.9656272,0.259645675 57.4828155,15.6114937 70.8757123,15.6725803 C84.2686091,15.733667 86.3733281,0.166641168 100.490126,0.249020991 C114.606924,0.331400815 113.36614,16.1267778 126.851447,15.9992317 C140.336755,15.8716856 141,8 141,8" id="Path-104"></path>
+            <path d="M141,8 C141,8 140.968385,15.0432781 154.105307,14.6778355 C167.242228,14.3123929 168.287652,-0.252959527 181.62664,0.00334307415 C194.965627,0.259645675 192.482815,15.6114937 205.875712,15.6725803 C219.268609,15.733667 221.373328,0.166641168 235.490126,0.249020991 C249.606924,0.331400815 248.36614,16.1267778 261.851447,15.9992317 C275.336755,15.8716856 283,0.249020991 283,0.249020991" id="Path-104" transform="translate(212.000000, 8.000000) scale(1, -1) translate(-212.000000, -8.000000) "></path>
+        </g>
+        <g id="Group-2" transform="translate(94.090060, 285.462515) rotate(-349.000000) translate(-94.090060, -285.462515) translate(76.590060, 264.962515)">
+            <rect id="Rectangle-98" fill="#000000" x="-1.42108547e-13" y="27.4054584" width="34.7135807" height="12.7892139" rx="6.39460697"></rect>
+            <path d="M17.0522853,0 C22.5333769,-1.02550577e-15 28.0144686,33.4955603 28.0144686,33.4955603 L6.09010188,33.4955603 C6.09010188,33.4955603 11.5711936,1.02550577e-15 17.0522853,0 Z" id="Triangle-5" fill="#000000"></path>
+            <path d="M6.7681015,6.98339611 L10.9050887,15.2062231" id="Path-106" stroke="#000000" stroke-width="3"></path>
+            <path d="M23.7513973,6.69911206 L27.8883845,14.9219391" id="Path-106" stroke="#000000" stroke-width="3" transform="translate(25.819891, 10.810526) scale(-1, 1) translate(-25.819891, -10.810526) "></path>
+            <path d="M4.04851426,4.76307131 L6.32027654,7.41713244 L27.7991323,7.41713244 L30.3089134,4.76307131 L4.04851426,4.76307131 Z" id="Rectangle-99" stroke="#003F87" fill="#000000"></path>
+        </g>
+        <path d="M90.1015625,300.476562 L90.1015625,406.355469" id="Path-108" stroke="#000000"></path>
+    </g>
+</svg>

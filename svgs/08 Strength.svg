@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>08 Strength</title>
+    <desc>Created with Sketch.</desc>
+    <g id="08-Strength" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="STRENGTH" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="107" y="591">STRENGTH</tspan>
+        </text>
+        <text id="VIII" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="160" y="63">VIII</tspan>
+        </text>
+        <g id="Group" transform="translate(92.000000, 163.000000)" fill="#FFFFFF">
+            <rect id="Rectangle-15" x="50.9352164" y="78.4824356" width="74.048349" height="137.915691"></rect>
+            <path d="M22.9550035,10.8218434 C21.1074119,2.82228377 14.7112682,-1.68024573 8.66584844,0.766363499 L8.66584844,0.766363499 C2.6217576,3.21243491 -0.777746242,11.6908173 1.06741439,19.6798515 L20.0415871,101.832761 C21.8891787,109.83232 28.2853224,114.33485 34.3307421,111.888241 L34.3307421,111.888241 C40.374833,109.442169 43.7743368,100.963787 41.9291762,92.9747527 L22.9550035,10.8218434 L22.9550035,10.8218434 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="19.9695431" y="78.4824356" width="135.306529" height="38.8992974" rx="19.4496487"></rect>
+            <rect id="Rectangle-15" x="50.9352164" y="201.545667" width="26.9266724" height="112.454333" rx="13.4633362"></rect>
+            <rect id="Rectangle-15" x="98.056893" y="201.545667" width="26.9266724" height="112.454333" rx="13.4633362"></rect>
+            <ellipse id="Oval-7" cx="88.2959743" cy="42.058548" rx="28.6095894" ry="30.058548"></ellipse>
+            <path d="M156.389626,10.7217075 C154.542035,2.72214793 148.145891,-1.78038157 142.100471,0.666227666 L142.100471,0.666227666 C136.056381,3.11229908 132.656877,11.5906815 134.502037,19.5797157 L153.47621,101.732625 C155.323802,109.732185 161.719945,114.234714 167.765365,111.788105 L167.765365,111.788105 C173.809456,109.342033 177.20896,100.863651 175.363799,92.8746169 L156.389626,10.7217075 L156.389626,10.7217075 Z" id="Rectangle-15" transform="translate(154.932918, 56.227166) scale(-1, 1) translate(-154.932918, -56.227166) "></path>
+        </g>
+        <g id="Rectangle-93-+-Rectangle-93-+-Rectangle-93" transform="translate(26.000000, 118.000000)" fill="#FFFFFF">
+            <rect id="Rectangle-93" x="0" y="0" width="32" height="74" rx="4"></rect>
+            <rect id="Rectangle-93" x="276" y="1" width="32" height="74" rx="4"></rect>
+            <rect id="Rectangle-93" x="35" y="34" width="238" height="12" rx="4"></rect>
+        </g>
+    </g>
+</svg>

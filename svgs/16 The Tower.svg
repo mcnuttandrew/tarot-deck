@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>16 The Tower</title>
+    <desc>Created with Sketch.</desc>
+    <g id="16-The-Tower" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#DD7500" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-TOWER" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="102.5" y="591">THE TOWER</tspan>
+        </text>
+        <text id="XVI" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="159.5" y="63">XVI</tspan>
+        </text>
+        <g id="Group" transform="translate(121.000000, 234.000000)" stroke="#000000">
+            <path d="M0,208.538776 L117.414289,208.538776" id="Path-75" stroke-width="8"></path>
+            <path d="M48.643617,5.19183673 L70.6117021,5.19183673" id="Line" stroke-width="12" stroke-linecap="square"></path>
+            <path d="M19.7712766,206.37551 L48.643617,9.95102041" id="Line" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M70.6117021,204.644898 L99.4840426,8.22040816" id="Line" stroke-width="10" stroke-linecap="square" transform="translate(85.047872, 106.432653) scale(-1, 1) translate(-85.047872, -106.432653) "></path>
+            <g id="Line-+-Line" transform="translate(21.340426, 140.179592)" stroke-linecap="square" stroke-width="7">
+                <path d="M0.313829787,66.1959184 L68.7287234,0.432653061" id="Line"></path>
+                <path d="M7.84574468,66.1959184 L76.2606383,0.432653061" id="Line" transform="translate(42.053191, 33.314286) scale(-1, 1) translate(-42.053191, -33.314286) "></path>
+            </g>
+            <g id="Line-+-Line" transform="translate(33.265957, 82.204082)" stroke-linecap="square" stroke-width="7">
+                <path d="M0.221224276,47.2827988 L48.4481165,0.309037901" id="Line"></path>
+                <path d="M5.53060691,47.2827988 L53.7574991,0.309037901" id="Line" transform="translate(29.644053, 23.795918) scale(-1, 1) translate(-29.644053, -23.795918) "></path>
+            </g>
+            <g id="Line-+-Line" transform="translate(42.680851, 33.746939)" stroke-linecap="square" stroke-width="7">
+                <path d="M0.138908266,30.0890538 L30.4209104,0.196660482" id="Line"></path>
+                <path d="M3.47270666,30.0890538 L33.7547088,0.196660482" id="Line" transform="translate(18.613708, 15.142857) scale(-1, 1) translate(-18.613708, -15.142857) "></path>
+            </g>
+        </g>
+        <g id="Oval-69-+-Oval-70" transform="translate(156.000000, 154.000000)">
+            <path d="M27.5,67 C38.8218374,67 48,57.3741221 48,45.5 C48,40.1267276 43.0134996,31.4449709 43.0134996,31.4449709 C43.0134996,31.4449709 40.4999987,24.5000008 30.0000006,10.4999998 C19.5000025,-3.50000111 37.9052311,2.89881116 36.4999987,2.00000004 C34.6678319,0.828114187 14.9999997,-3.00000073 15.9999997,9.49999977 C16.9999997,22.0000003 22.2627994,20.8598774 20.4999991,20.4999996 C6.07174541,17.5544541 -2.1785101,24.5000002 2,24.5000002 C16.7695152,24.5000002 13.7695151,31.444971 13.7695148,29.5347268 C13.7695151,32.9999999 7,39.1647771 7,45.5 C7,57.3741221 16.1781626,67 27.5,67 Z" id="Oval-69" fill="#000000"></path>
+            <path d="M27,70 C33.627417,70 39.5,64.5 38.5,54.5 C40.5,49 32,58 32,54.5 C36.5,49 35,46.5 33.5,42.5 C31.8904567,37.4237481 25.5,34 25.5,34 C25.5,34 30.5,42.5 23,46 C18,49 15,51.372583 15,58 C15,64.627417 20.372583,70 27,70 Z" id="Oval-70" fill="#DD7500"></path>
+        </g>
+        <polygon id="Path-85" fill="#000000" transform="translate(91.311706, 158.606878) scale(-1, 1) rotate(-330.000000) translate(-91.311706, -158.606878) " points="74.0617061 104.356878 60.0617061 156.856878 85.5617061 156.856878 63.5617061 212.856878 122.561706 137.356878 91.5617061 137.356878 105.061706 104.356878"></polygon>
+        <polygon id="Path-85" fill="#000000" transform="translate(269.188294, 158.606878) rotate(-330.000000) translate(-269.188294, -158.606878) " points="251.938294 104.356878 237.938294 156.856878 263.438294 156.856878 241.438294 212.856878 300.438294 137.356878 269.438294 137.356878 282.938294 104.356878"></polygon>
+    </g>
+</svg>

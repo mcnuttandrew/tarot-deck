@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>17 The star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.7%" y="-6.7%" width="113.5%" height="113.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="17-The-star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-STAR-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="111.268" y="584.239868">THE STAR </tspan>
+        </text>
+        <polygon id="Triangle-1" fill="#FFFFFF" points="179.5 128 186 251 173 251"></polygon>
+        <polygon id="Triangle-1" fill="#FFFFFF" transform="translate(179.500000, 398.500000) scale(-1, -1) translate(-179.500000, -398.500000) " points="179.5 337 186 460 173 460"></polygon>
+        <polygon id="Triangle-1" fill="#FFFFFF" transform="translate(118.500000, 295.500000) scale(-1, -1) rotate(-270.000000) translate(-118.500000, -295.500000) " points="118.5 234 125 357 112 357"></polygon>
+        <polygon id="Triangle-1" fill="#FFFFFF" transform="translate(241.500000, 295.500000) scale(1, -1) rotate(-270.000000) translate(-241.500000, -295.500000) " points="241.5 234 248 357 235 357"></polygon>
+        <circle id="Oval-1" stroke="#003F87" stroke-width="12" fill="#FFFFFF" filter="url(#filter-1)" cx="180.5" cy="295.5" r="44.5"></circle>
+        <text id="XVII" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="156" y="63">XVII</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>06 The lovers</title>
+    <desc>Created with Sketch.</desc>
+    <g id="06-The-lovers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#DD7500" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-LOVERS" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="94.5" y="591">THE LOVERS</tspan>
+        </text>
+        <text id="VI" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="168.5" y="63">VI</tspan>
+        </text>
+        <g id="bathroom-man" transform="translate(72.000000, 191.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="26.237037" y="53.7904071" width="62.7407407" height="111.586483"></rect>
+            <rect id="Rectangle-15" x="0" y="62.3739827" width="19.3925926" height="90.9859013" rx="9.6962963"></rect>
+            <rect id="Rectangle-15" x="95.8222222" y="62.3739827" width="19.3925926" height="90.9859013" rx="9.6962963"></rect>
+            <rect id="Rectangle-15" x="0" y="53.7904071" width="114.644444" height="31.4731105" rx="15.7365553"></rect>
+            <path d="M26.237037,164.768196 C26.237037,158.467559 31.3429221,153.359884 37.6444444,153.359884 L37.6444444,153.359884 C43.9445816,153.359884 49.0518519,158.463041 49.0518519,164.768196 L49.0518519,232.937473 C49.0518519,239.23811 43.9459668,244.345785 37.6444444,244.345785 L37.6444444,244.345785 C31.3443073,244.345785 26.237037,239.242629 26.237037,232.937473 L26.237037,164.768196 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="66.162963" y="153.359884" width="22.8148148" height="90.9859013" rx="11.4074074"></rect>
+            <ellipse id="Oval-7" cx="57.8925926" cy="24.3201309" rx="24.2407407" ry="24.3201309"></ellipse>
+        </g>
+        <g id="bathroom-woman" transform="translate(175.000000, 188.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="31.0318618" y="53.9344262" width="65.9915366" height="111.885246"></rect>
+            <rect id="Rectangle-15" transform="translate(17.648058, 106.423863) rotate(-351.000000) translate(-17.648058, -106.423863) " x="7.44973087" y="57.9991817" width="20.3966543" height="96.8493636" rx="10.1983271"></rect>
+            <rect id="Rectangle-15" x="13.6378278" y="53.1516786" width="101.156264" height="31.557377" rx="15.7786885"></rect>
+            <path d="M31.0318618,165.767489 C31.0318618,159.141731 36.4022989,153.770492 43.030323,153.770492 L43.030323,153.770492 C49.6568901,153.770492 55.0287842,159.13672 55.0287842,165.767489 L55.0287842,233.003002 C55.0287842,239.628761 49.6583471,245 43.030323,245 L43.030323,245 C36.4037559,245 31.0318618,239.633772 31.0318618,233.003002 L31.0318618,165.767489 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="73.026476" y="153.770492" width="23.9969224" height="91.2295082" rx="11.9984612"></rect>
+            <ellipse id="Oval-7" cx="64.3275916" cy="24.3852459" rx="25.49673" ry="24.3852459"></ellipse>
+            <rect id="Rectangle-15" transform="translate(111.077271, 110.131591) scale(-1, 1) rotate(-351.000000) translate(-111.077271, -110.131591) " x="100.878579" y="58.9654873" width="20.397384" height="102.332208" rx="10.198692"></rect>
+            <polygon id="Path-42" points="19.8116792 182.380192 66.5127933 182.380192 66.5127933 67.2506831 32.9127017 90.798722"></polygon>
+            <polygon id="Path-42" transform="translate(85.740559, 124.881048) scale(-1, 1) translate(-85.740559, -124.881048) " points="62.3900023 182.445803 109.091116 182.445803 109.091116 67.3162939 75.4910248 90.8643329"></polygon>
+        </g>
+        <g id="Path-75-+-Path-75" transform="translate(159.000000, 161.000000)" fill="#000000">
+            <path d="M20.9051989,9.76315789 C20.9051989,9.76315789 17.4730944,-2.94736848 6.50254493,1.10526312 C-4.46800458,5.15789472 0.479039595,17.7557837 6.50254492,24.8684211 C8.35921339,27.0608006 20.9051994,41.7140942 20.9051994,41.7140942 L20.9051989,9.76315789 Z" id="Path-75"></path>
+            <path d="M41.7193582,9.82386107 C41.7193582,9.82386107 38.2872537,-2.88666531 27.3167042,1.16596629 C16.3461547,5.21859789 21.2931989,17.8164869 27.3167042,24.9291243 C29.1733727,27.1215038 41.7193586,41.7747974 41.7193586,41.7747974 L41.7193582,9.82386107 Z" id="Path-75" transform="translate(31.266759, 21.071609) scale(-1, 1) translate(-31.266759, -21.071609) "></path>
+        </g>
+    </g>
+</svg>

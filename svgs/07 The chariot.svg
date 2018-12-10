@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>07 The chariot</title>
+    <desc>Created with Sketch.</desc>
+    <g id="07-The-chariot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#DD7500" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-CHARIOT" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="88.5" y="591">THE CHARIOT</tspan>
+        </text>
+        <text id="VII" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="164.5" y="63">VII</tspan>
+        </text>
+        <g id="porsche" transform="translate(59.000000, 255.000000)">
+            <path d="M8.00000031,34.9999988 C-3.00000049,40.9999988 -0.999999638,60.9999988 7.99999999,70.9999988 C16.9999996,80.9999988 39,74.2771086 39,74.2771086 L188,74.2771072 C188,74.2771072 236.999989,74.2771077 240.999989,72.0000004 C244.999989,69.7228932 240.999989,49.0000004 240.999989,49.0000004 C240.999989,49.0000004 242.999989,43.5613369 230.000004,36.0000004 C217.00002,28.4386639 193.000004,25.6950802 193.000004,25.6950802 L173.000004,19.9957213 C173.000004,19.9957213 168.389819,17.3356099 162.248722,14.0369555 C153.695786,9.44279667 142.173313,3.61004508 136.000007,2.00000043 C125.394203,-0.766073229 108.999997,0.999999999 104,2.00000043 C101.51529,2.49694297 19.0000011,28.9999988 8.00000031,34.9999988 Z" id="Path-45" fill="#000000"></path>
+            <g id="Oval-14-+-Oval-14" transform="translate(21.333333, 54.000000)">
+                <ellipse id="Oval-14" stroke="#DD7500" stroke-width="3" fill="#000000" cx="19.3333333" cy="19.3915663" rx="19.3333333" ry="19.3915663"></ellipse>
+                <ellipse id="Oval-14" fill="#DD7500" cx="19.3333333" cy="19.3915663" rx="11.2777778" ry="11.311747"></ellipse>
+            </g>
+            <g id="Oval-14-+-Oval-14" transform="translate(168.000000, 54.000000)">
+                <ellipse id="Oval-14" stroke="#DD7500" stroke-width="3" fill="#000000" cx="19.3333333" cy="19.3915663" rx="19.3333333" ry="19.3915663"></ellipse>
+                <ellipse id="Oval-14" fill="#DD7500" cx="19.3333333" cy="19.3915663" rx="11.2777778" ry="11.311747"></ellipse>
+            </g>
+            <path d="M64.0231578,23.0393219 C63.3643776,20.854986 76.9448938,15.8306724 81.3109595,16.0043926 C85.6770251,16.1781128 88.0517344,22.0372641 83.668387,23.8209807 C79.2850396,25.6046974 64.681938,25.2236578 64.0231578,23.0393219 Z" id="Path-72" fill="#DD7500"></path>
+            <path d="M91.9999999,14.2199998 C84.1699852,18.2536437 91.9999999,23 91.9999999,23 C91.9999999,23 148.999997,22.9999995 154.999997,22.9999995 C160.999997,22.9999995 141.000001,10 137,8 C130.408355,4.704178 99.8300147,10.1863558 91.9999999,14.2199998 Z" id="Path-73" fill="#DD7500"></path>
+            <path d="M160,13 C158,12 146,6 146,6 C146,6 142,5 145,9 C148,13 159.675102,20.5750438 163,22 C166.324898,23.4249562 172,20 172,20 C172,20 162,14 160,13 Z" id="Path-74" fill="#DD7500"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>King Swords</title>
+    <desc>Created with Sketch.</desc>
+    <g id="King-Swords" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(10.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="68" y="559">LORD OF WINDS</tspan>
+                <tspan x="78.08" y="579">AND BREEZES</tspan>
+            </text>
+            <text id="SWORDS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="157.547887" y="58.6785714">SWORDS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="128.759259" y="68.0535714">KING</tspan>
+            </text>
+        </g>
+        <g id="wind" transform="translate(290.500000, 67.000000) scale(-1, 1) translate(-290.500000, -67.000000) translate(271.000000, 54.000000)" stroke="#000000" stroke-linecap="square">
+            <path d="M0.506493506,12.8381997 C6.86188594,12.8381997 12.535558,13.2466999 20.0884538,11.2564166 C27.6413496,9.26613324 29.771652,3.47621498 25.4142121,0.943126286 C21.0567723,-1.58996241 18.1158895,1.60282333 17.6676538,3.23496861 C17.2194182,4.86711389 21.4441017,6.05101473 21.4441017,6.05101473" id="Line" stroke-width="3"></path>
+            <path d="M0,12.9041995 C3.41833979,12.9041995 6.47000639,13.1239173 10.5324407,12.0534146 C14.594875,10.9829119 15.740689,7.86872055 13.3969769,6.50626215 C11.0532648,5.14380374 9.47146844,6.86108974 9.23037841,7.7389627 C8.98928838,8.61683566 11.2615956,9.25361386 11.2615956,9.25361386" id="Line"></path>
+            <path d="M7.09090909,25.7833844 C13.4463015,25.7833844 19.1199735,26.1918846 26.6728693,24.2016013 C34.2257651,22.2113179 36.3560676,16.4213997 31.9986277,13.888311 C27.6411878,11.3552223 24.7003051,14.548008 24.2520694,16.1801533 C23.8038338,17.8122986 28.0285173,18.9961994 28.0285173,18.9961994" id="Line" stroke-width="2" transform="translate(20.663311, 19.381584) scale(1, -1) translate(-20.663311, -19.381584) "></path>
+            <path d="M20.2597403,11.9831276 C24.6288266,11.9831276 28.5292566,12.2639558 33.7215802,10.895713 C38.9139038,9.52747018 40.3784044,5.54712541 37.382833,3.80572495 C34.3872617,2.06432449 32.3655186,4.25924113 32.0573739,5.38127786 C31.7492293,6.50331459 34.6535357,7.3172006 34.6535357,7.3172006" id="Line" stroke-width="3"></path>
+        </g>
+        <g id="sword" transform="translate(81.223611, 67.223611) scale(-1, -1) rotate(-315.000000) translate(-81.223611, -67.223611) translate(72.223611, 37.723611)">
+            <rect id="Rectangle-65" x="2.70352132" y="12.0988591" width="11.5575539" height="45.6631162"></rect>
+            <rect id="Rectangle-63" fill="#000000" x="-1.13686838e-13" y="9.36685866" width="17.5728886" height="2.73200044" rx="1.36600022"></rect>
+            <g id="Rectangle-61-+-Triangle-7" transform="translate(4.731162, 12.098859)" fill="#000000">
+                <rect id="Rectangle-61" x="0" y="0" width="3.37940165" height="41.7605782"></rect>
+                <polygon id="Triangle-7" transform="translate(1.689701, 43.712007) scale(1, -1) translate(-1.689701, -43.712007) " points="3.37940165 41.7605782 3.37940165 45.663436 0 45.663436"></polygon>
+            </g>
+            <g id="Rectangle-61-+-Triangle-7" transform="translate(10.165846, 35.098859) scale(-1, 1) translate(-10.165846, -35.098859) translate(8.165846, 12.098859)" fill="#000000">
+                <polygon id="Rectangle-61" points="-2.06057393e-13 0 3.37940165 0 3.37940165 41.7605782 -2.06057393e-13 41.7605782"></polygon>
+                <polygon id="Triangle-7" transform="translate(1.689701, 43.712007) scale(1, -1) translate(-1.689701, -43.712007) " points="3.37940165 41.7605782 3.37940165 45.663436 -2.06057393e-13 45.663436"></polygon>
+            </g>
+            <path d="M4.73116231,3.71497153 C4.73116231,1.66324941 6.39965043,-2.27373675e-13 8.44850412,-2.27373675e-13 L8.44850412,-2.27373675e-13 C10.5015353,-2.27373675e-13 12.1658459,1.65972826 12.1658459,3.71497153 L12.1658459,7.21303025 C12.1658459,9.26475237 10.4973578,10.9280018 8.44850412,10.9280018 L8.44850412,10.9280018 C6.39547293,10.9280018 4.73116231,9.26827352 4.73116231,7.21303025 L4.73116231,3.71497153 Z" id="Rectangle-63" fill="#000000"></path>
+        </g>
+        <g id="Group" transform="translate(81.000000, 237.000000)" fill="#000000">
+            <rect id="Rectangle-112" x="24" y="218" width="12" height="27"></rect>
+            <polygon id="Triangle-11" points="29 0 58 151 0 151"></polygon>
+            <polygon id="Triangle-11" points="29 0 58 151 0 151"></polygon>
+            <polygon id="Triangle-11" points="29 34 58 185 0 185"></polygon>
+            <polygon id="Triangle-11" points="29 76 58 227 0 227"></polygon>
+        </g>
+    </g>
+</svg>

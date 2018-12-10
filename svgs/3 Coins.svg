@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>3 Coins</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32.1574615 -2.67674662 56.3383496 8.09010913 66.3544014 34.0835983 56.3383496 60.0770875 32.1574615 70.8439432 7.97657336 60.0770875 -2.03947845 34.0835983 7.97657336 8.09010913"></polygon>
+    </defs>
+    <g id="3-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M18,533 L342,533" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <g id="Label" transform="translate(59.000000, 40.000000)" fill="#000000" font-weight="normal" line-spacing="20">
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded">
+                <tspan x="0.5" y="547.830952">MATERIAL WORKS</tspan>
+            </text>
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed">
+                <tspan x="108.75" y="12.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded">
+                <tspan x="107.759259" y="62.0535714">3</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(167.175955, 335.785418) scale(-1, 1) translate(-167.175955, -335.785418) translate(77.000000, 210.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="67.0473746" y="55.3809333" width="60.2129641" height="114.885979"></rect>
+            <rect id="Rectangle-15" transform="translate(147.318866, 96.354043) rotate(-214.000000) translate(-147.318866, -96.354043) " x="138.013226" y="49.5159128" width="18.6112798" height="93.6762595" rx="9.3056399"></rect>
+            <rect id="Rectangle-408" x="8.58818622" y="9.23195726" width="3.22056983" height="242.338878" rx="1.61028492"></rect>
+            <rect id="Rectangle-15" x="67.0473746" y="55.3809333" width="60.2129641" height="32.4037376" rx="16.2018688"></rect>
+            <rect id="Rectangle-15" x="67.0473746" y="157.894576" width="21.8956233" height="93.6762595" rx="10.9478116"></rect>
+            <rect id="Rectangle-15" x="105.364715" y="157.894576" width="21.8956233" height="93.6762595" rx="10.9478116"></rect>
+            <ellipse id="Oval-7" cx="97.4275519" cy="25.0392518" rx="23.2640997" ry="25.0392518"></ellipse>
+            <rect id="Rectangle-15" transform="translate(38.324871, 65.394935) rotate(-270.000000) translate(-38.324871, -65.394935) " x="29.0192307" y="24.6590198" width="18.6112798" height="81.4718301" rx="9.3056399"></rect>
+        </g>
+        <g id="Group-2" transform="translate(217.000000, 160.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+            <g id="coin" mask="url(#mask-2)">
+                <g transform="translate(45.000000, 27.000000)" id="Oval-224">
+                    <ellipse fill="#000000" cx="9.0030702" cy="9.0836099" rx="9.0030702" ry="9.0836099"></ellipse>
+                    <ellipse fill="#FCD116" cx="9.29349182" cy="9.37662957" rx="6.97011887" ry="7.03247218"></ellipse>
+                    <ellipse fill="#000000" cx="9.29349182" cy="9.37662957" rx="5.22758915" ry="5.27435413"></ellipse>
+                    <ellipse fill="#FCD116" cx="9.29349182" cy="9.37662957" rx="3.48505943" ry="3.51623609"></ellipse>
+                    <ellipse fill="#000000" cx="9.29349182" cy="9.37662957" rx="1.74252972" ry="1.75811804"></ellipse>
+                </g>
+            </g>
+            <g id="coin" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 27.000000)" id="Oval-224">
+                    <ellipse fill="#000000" cx="9.0030702" cy="9.0836099" rx="9.0030702" ry="9.0836099"></ellipse>
+                    <ellipse fill="#FCD116" cx="9.29349182" cy="9.37662957" rx="6.97011887" ry="7.03247218"></ellipse>
+                    <ellipse fill="#000000" cx="9.29349182" cy="9.37662957" rx="5.22758915" ry="5.27435413"></ellipse>
+                    <ellipse fill="#FCD116" cx="9.29349182" cy="9.37662957" rx="3.48505943" ry="3.51623609"></ellipse>
+                    <ellipse fill="#000000" cx="9.29349182" cy="9.37662957" rx="1.74252972" ry="1.75811804"></ellipse>
+                </g>
+            </g>
+            <g id="coin" mask="url(#mask-2)">
+                <g transform="translate(23.000000, 27.000000)" id="Oval-224">
+                    <ellipse fill="#000000" cx="9.0030702" cy="9.0836099" rx="9.0030702" ry="9.0836099"></ellipse>
+                    <ellipse fill="#FCD116" cx="9.29349182" cy="9.37662957" rx="6.97011887" ry="7.03247218"></ellipse>
+                    <ellipse fill="#000000" cx="9.29349182" cy="9.37662957" rx="5.22758915" ry="5.27435413"></ellipse>
+                    <ellipse fill="#FCD116" cx="9.29349182" cy="9.37662957" rx="3.48505943" ry="3.51623609"></ellipse>
+                    <ellipse fill="#000000" cx="9.29349182" cy="9.37662957" rx="1.74252972" ry="1.75811804"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Queen Cups</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Queen-Cups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WANDS-+-2" transform="translate(10.000000, 21.000000)">
+            <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#AF1E2D" x="5" y="5" width="330" height="589" rx="25"></rect>
+            <path d="M8,508 L332,508" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="32.5" y="559">LADY OF THE HOUSE</tspan>
+                <tspan x="103.84" y="579">OF MERCY</tspan>
+            </text>
+            <text id="CUPS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="163.438028" y="58.6785714">CUPS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="107.259259" y="68.0535714">QUEEN</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(35.000000, 276.000000)" fill="#000000">
+            <rect id="Rectangle-111" x="145" y="52.17" width="27" height="6.66"></rect>
+            <polygon id="Path-127" points="50.9801571 126.149869 221.34795 126.149869 172.184067 109 0 109"></polygon>
+            <polygon id="Path-128" stroke="#AF1E2D" points="150.764157 9.45667969 150.764157 117.574934 164.771032 117.574934 164.771032 14.6632597"></polygon>
+            <polygon id="Path-127" points="50.9801571 17.1498689 221.34795 17.1498689 172.184067 0 0 7.35560583e-15"></polygon>
+            <rect id="Rectangle-108" x="160.872483" y="75.48" width="14.1744966" height="31.08"></rect>
+            <rect id="Rectangle-108" x="136.067114" y="75.48" width="14.1744966" height="31.08"></rect>
+        </g>
+        <g id="Group-2" transform="translate(281.000000, 356.500000) scale(-1, 1) translate(-281.000000, -356.500000) translate(228.000000, 309.000000)" fill="#000000">
+            <rect id="Rectangle-110" x="0" y="0.922330097" width="58" height="93.1553398"></rect>
+            <polygon id="Path-129" stroke="#AF1E2D" points="58 0 105.763672 12 105.763672 77.9726562 58 94.1191027"></polygon>
+            <polygon id="Path-129" stroke="#AF1E2D" points="58 0 105.763672 12 105.763672 77.9726562 58 94.1191027"></polygon>
+        </g>
+        <text id="GAS" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" fill="#000000">
+            <tspan x="275.22" y="311">GAS</tspan>
+        </text>
+        <path d="M166.63623,355.773438 C166.63623,355.773438 167.900254,352.512248 168.888184,352.007324 C169.876113,351.502401 171.962402,353.05127 171.962402,353.05127" id="Path-130" stroke="#000000"></path>
+        <g id="cup" transform="translate(164.000000, 356.000000)" fill="#000000">
+            <path d="M2.50575919,6.60585409e-09 C2.50575919,6.60585409e-09 2.26020362,3.22663378 2.97141024,5.81872037 C3.68261686,8.41080696 4.98923137,9.05134311 4.98923137,9.05134311 L4.98923137,2.27373675e-13 L2.50575919,6.60585409e-09 Z" id="Path-95" transform="translate(3.727010, 4.525672) scale(-1, 1) translate(-3.727010, -4.525672) "></path>
+            <path d="M0.04097046,6.60585409e-09 C0.04097046,6.60585409e-09 -0.204585111,3.22663378 0.506621509,5.81872037 C1.21782813,8.41080696 2.52444264,9.05134311 2.52444264,9.05134311 L2.52444264,2.27373675e-13 L0.04097046,6.60585409e-09 Z" id="Path-95"></path>
+            <path d="M0.845070423,13.61486 C0.845070423,13.61486 1.27425907,13.4157842 1.93158954,11.8045914 C2.58892,10.1933986 2.5007186,7.02031002 2.5007186,7.02031002 L2.5007186,13.61486 L0.845070423,13.61486 Z" id="Path-97"></path>
+            <path d="M2.46478873,13.61486 C2.46478873,13.61486 2.89397738,13.4157842 3.55130785,11.8045914 C4.20863831,10.1933986 4.12043691,7.02031002 4.12043691,7.02031002 L4.12043691,13.61486 L2.46478873,13.61486 Z" id="Path-97" transform="translate(3.294587, 10.317585) scale(-1, 1) translate(-3.294587, -10.317585) "></path>
+        </g>
+    </g>
+</svg>

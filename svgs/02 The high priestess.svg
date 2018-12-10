@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>02 The high priestess</title>
+    <desc>Created with Sketch.</desc>
+    <g id="02-The-high-priestess" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#003F87" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-HIGH-PRIESTESS-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="36.748" y="584.239868">THE HIGH PRIESTESS </tspan>
+        </text>
+        <text id="II" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="172.5" y="63">II</tspan>
+        </text>
+        <g id="bathroom-woman" transform="translate(104.000000, 176.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="37.3072783" y="68.5855749" width="77.2100978" height="62.0188709"></rect>
+            <rect id="Rectangle-15" transform="translate(21.648228, 135.333633) rotate(-351.000000) translate(-21.648228, -135.333633) " x="9.71618511" y="73.7545107" width="23.8640855" height="123.158245" rx="11.9320427"></rect>
+            <rect id="Rectangle-15" x="16.9562585" y="67.5901959" width="118.352829" height="40.1298576" rx="20.0649288"></rect>
+            <path d="M37.3072783,209.578891 C37.3072783,201.826448 43.5906897,195.541852 51.3454779,195.541852 L51.3454779,195.541852 C59.0985615,195.541852 65.3836775,201.820282 65.3836775,209.578891 L65.3836775,297.516583 C65.3836775,305.269026 59.1002661,311.553622 51.3454779,311.553622 L51.3454779,311.553622 C43.5923943,311.553622 37.3072783,305.275192 37.3072783,297.516583 L37.3072783,209.578891 Z" id="Rectangle-15"></path>
+            <rect id="Rectangle-15" x="86.4409769" y="195.541852" width="28.0763992" height="116.01177" rx="14.0381996"></rect>
+            <ellipse id="Oval-7" cx="76.2632822" cy="31.0094355" rx="29.8311741" ry="31.0094355"></ellipse>
+            <rect id="Rectangle-15" transform="translate(130.960407, 140.048556) scale(-1, 1) rotate(-351.000000) translate(-130.960407, -140.048556) " x="119.027938" y="74.9833108" width="23.8649393" height="130.13049" rx="11.9324697"></rect>
+            <polygon id="Path-42" points="24.1796646 238.563413 78.8199681 238.563413 78.8199681 85.5191588 39.5078609 116.822098"></polygon>
+            <polygon id="Path-42" transform="translate(101.316454, 162.128504) scale(-1, 1) translate(-101.316454, -162.128504) " points="73.9963027 238.650631 128.636606 238.650631 128.636606 85.6063768 89.324499 116.909316"></polygon>
+        </g>
+        <g id="hand" transform="translate(125.000000, 106.000000)">
+            <rect id="Rectangle-156" fill="#000000" x="26.57" y="28.8475576" width="14.1329617" height="74.1794338" rx="7.06648085"></rect>
+            <rect id="Rectangle-156" fill="#000000" transform="translate(25.595749, 102.963325) scale(-1, 1) rotate(-325.000000) translate(-25.595749, -102.963325) " x="16.2357492" y="72.7802096" width="18.72" height="60.3662299" rx="9.36"></rect>
+            <rect id="Rectangle-160" fill="#000000" x="26.57" y="72.4036682" width="62.5927148" height="61.1193127" rx="14"></rect>
+            <rect id="Rectangle-156" fill="#000000" x="75.0297532" y="28.8475576" width="14.1329617" height="74.1794338" rx="7.06648085"></rect>
+            <rect id="Rectangle-156" fill="#000000" x="42.7232511" y="0" width="14.1329617" height="103.026991" rx="7.06648085"></rect>
+            <rect id="Rectangle-156" fill="#000000" x="58.8765021" y="0" width="14.1329617" height="103.026991" rx="7.06648085"></rect>
+            <g id="eye" transform="translate(37.100000, 91.558615)" fill="#FFFFFF" stroke="#000000">
+                <ellipse id="Oval-80" cx="19.3044287" cy="9.98837314" rx="19.3044287" ry="9.98837314"></ellipse>
+                <ellipse id="Oval-81" stroke-width="3" cx="25.305" cy="9.53735578" rx="5.265" ry="5.72241347"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>5 Coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#DD7500" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M18,533 L342,533" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <g id="Label" transform="translate(43.000000, 40.000000)" fill="#000000" font-weight="normal" line-spacing="20">
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed">
+                <tspan x="124.75" y="12.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded">
+                <tspan x="123.759259" y="62.0535714">5</tspan>
+            </text>
+            <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded">
+                <tspan x="0" y="547.830952">MATERIAL TROUBLE</tspan>
+            </text>
+        </g>
+        <g id="cup-+-spigot-+-coins" transform="translate(113.000000, 134.000000)">
+            <g id="cup" transform="translate(0.000000, 231.835749)">
+                <g id="Path-150-+-Path-150-+-Rectangle-246" transform="translate(14.056130, 0.000000)" fill="#DD7500">
+                    <polygon id="Path-150" stroke="#000000" stroke-width="4" points="29.7293373 0 60.3590468 0 50.2952387 83.0587955 29.7293373 83.0587955"></polygon>
+                    <polygon id="Path-150" stroke="#000000" stroke-width="4" transform="translate(15.853880, 41.529398) scale(-1, 1) translate(-15.853880, -41.529398) " points="0.539025642 0 31.1687351 0 21.104927 83.0587955 0.539025642 83.0587955"></polygon>
+                    <rect id="Rectangle-246" x="28.1122604" y="2" width="12.884786" height="78.7191112"></rect>
+                </g>
+                <g id="Path-150-+-Path-150-+-Rectangle-246" transform="translate(15.227474, 21.057159)" fill="#000000">
+                    <polygon id="Path-150" points="27.9439722 1.13686838e-13 56.809049 1.13686838e-13 47.325035 62.0016361 27.9439722 62.0016361"></polygon>
+                    <polygon id="Path-150" points="0.435366864 1.13686838e-13 29.3004437 1.13686838e-13 19.8164297 62.0016361 0.435366864 62.0016361"></polygon>
+                    <rect id="Rectangle-246" x="26.4200579" y="1.74652496" width="12.1424703" height="58.5085862"></rect>
+                </g>
+            </g>
+            <g id="spigot" transform="translate(33.308411, 0.000000)" fill="#000000">
+                <path d="M73.7946835,12.8682641 C77.6761767,12.8682641 87.8508137,9.72572696 87.8508137,5.84921095 C87.8508137,1.97269494 77.6761767,0.584921095 73.7946835,0.584921095 C69.9131903,0.584921095 60.9098975,1.97269494 60.9098975,5.84921095 C60.9098975,9.72572696 69.9131903,12.8682641 73.7946835,12.8682641 Z" id="Oval-49"></path>
+                <polygon id="Triangle-50" points="74.3803556 8.18889534 86.6794695 28.0762126 62.0812417 28.0762126"></polygon>
+                <path d="M83.165437,50.3032142 C83.165437,61.416715 127.676516,72.5302158 127.676516,72.5302158 L127.676516,28.0762126 C127.676516,28.0762126 83.165437,39.1897134 83.165437,50.3032142 L83.165437,50.3032142 Z" id="Triangle-49"></path>
+                <ellipse id="Oval-48" cx="74.9660277" cy="50.3032142" rx="30.4549488" ry="30.415897"></ellipse>
+                <g id="Rectangle-244-+-Rectangle-244" transform="translate(0.000000, 37.434950)">
+                    <rect id="Rectangle-244" x="0" y="0" width="60.9098975" height="22.2270016" rx="11.1135008"></rect>
+                    <polygon id="Rectangle-244" points="22.2555395 10.5285797 22.2555395 47.9635298 2.13506078e-14 47.9635298 2.94189202e-14 10.5285797"></polygon>
+                </g>
+                <path d="M64.1644094,3.61572123 C66.7737791,5.23606644 66.7446708,7.79797735 64.057609,9.31187488 C64.057609,9.31187488 58.2617677,12.8682641 56.3295276,12.8682641 C54.3972875,12.8682641 54.8803474,1.20306718 56.3295276,0.230967437 C57.7787077,-0.741132306 64.1644094,3.61572123 64.1644094,3.61572123 L64.1644094,3.61572123 Z" id="Triangle-51"></path>
+                <path d="M85.0955675,3.43351224 C82.4861977,5.05385745 82.5153061,7.61576835 85.2023679,9.12966589 C85.2023679,9.12966589 90.9982092,12.6860551 92.9304493,12.6860551 C94.8626894,12.6860551 94.3796294,1.02085819 92.9304493,0.0487584433 C91.4812691,-0.9233413 85.0955675,3.43351224 85.0955675,3.43351224 L85.0955675,3.43351224 Z" id="Triangle-51"></path>
+            </g>
+            <g id="coins" transform="translate(33.308411, 89.700483)" stroke="#000000">
+                <g id="coin" transform="translate(0.000000, 115.135008)">
+                    <ellipse id="Oval-31" stroke-width="3" cx="11.1277697" cy="11.1135008" rx="11.1277697" ry="11.1135008"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="11.1277697" cy="11.1135008" rx="7.66579693" ry="7.65596723"></ellipse>
+                    <ellipse id="Oval-31" cx="11.1277697" cy="11.1135008" rx="4.20382412" ry="4.19843364"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="11.1277697" cy="11.1135008" rx="1.7309864" ry="1.72876679"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 86.888953)">
+                    <ellipse id="Oval-31" stroke-width="3" cx="11.1277697" cy="11.1135008" rx="11.1277697" ry="11.1135008"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="11.1277697" cy="11.1135008" rx="7.66579693" ry="7.65596723"></ellipse>
+                    <ellipse id="Oval-31" cx="11.1277697" cy="11.1135008" rx="4.20382412" ry="4.19843364"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="11.1277697" cy="11.1135008" rx="1.7309864" ry="1.72876679"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 56.812741)">
+                    <ellipse id="Oval-31" stroke-width="3" cx="11.1277697" cy="11.1135008" rx="11.1277697" ry="11.1135008"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="11.1277697" cy="11.1135008" rx="7.66579693" ry="7.65596723"></ellipse>
+                    <ellipse id="Oval-31" cx="11.1277697" cy="11.1135008" rx="4.20382412" ry="4.19843364"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="11.1277697" cy="11.1135008" rx="1.7309864" ry="1.72876679"></ellipse>
+                </g>
+                <g id="coin" transform="translate(0.000000, 27.906370)">
+                    <ellipse id="Oval-31" stroke-width="3" cx="11.1277697" cy="11.1135008" rx="11.1277697" ry="11.1135008"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="11.1277697" cy="11.1135008" rx="7.66579693" ry="7.65596723"></ellipse>
+                    <ellipse id="Oval-31" cx="11.1277697" cy="11.1135008" rx="4.20382412" ry="4.19843364"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="11.1277697" cy="11.1135008" rx="1.7309864" ry="1.72876679"></ellipse>
+                </g>
+                <g id="coin">
+                    <ellipse id="Oval-31" stroke-width="3" cx="11.1277697" cy="11.1135008" rx="11.1277697" ry="11.1135008"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="2" cx="11.1277697" cy="11.1135008" rx="7.66579693" ry="7.65596723"></ellipse>
+                    <ellipse id="Oval-31" cx="11.1277697" cy="11.1135008" rx="4.20382412" ry="4.19843364"></ellipse>
+                    <ellipse id="Oval-31" stroke-width="0.5" cx="11.1277697" cy="11.1135008" rx="1.7309864" ry="1.72876679"></ellipse>
+                </g>
+            </g>
+        </g>
+        <g id="Oval-19-+-Line" transform="translate(52.000000, 167.000000)" stroke="#000000">
+            <ellipse id="Oval-19" stroke-width="11" cx="126.5" cy="129" rx="126.5" ry="129"></ellipse>
+            <path d="M28.6517094,200.246862 L224.348291,58.832636" id="Line" stroke-width="10" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

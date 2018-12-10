@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>7 Coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="7-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#AF1E2D" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M18,533 L342,533" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+            <tspan x="113" y="588">PATIENCE</tspan>
+        </text>
+        <g id="Label" transform="translate(166.000000, 40.000000)" fill="#FFFFFF" font-weight="normal" line-spacing="20">
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed">
+                <tspan x="1.75" y="12.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded">
+                <tspan x="0.759259259" y="62.0535714">7</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(76.000000, 227.000000)">
+            <g id="Group-2" transform="translate(0.000000, 6.977612)">
+                <g id="Group" transform="translate(104.500000, 120.544776) scale(1, -1) translate(-104.500000, -120.544776) translate(0.000000, 68.044776)">
+                    <polygon id="Path-517" fill="#000000" points="0 -1.70530257e-13 104.5 -1.70530257e-13 104.5 104.664179"></polygon>
+                    <polygon id="Path-517" fill="#000000" transform="translate(156.750000, 52.332090) scale(-1, 1) translate(-156.750000, -52.332090) " points="104.5 -1.70530257e-13 209 -1.70530257e-13 209 104.664179"></polygon>
+                    <polygon id="Path-517" fill="#AF1E2D" points="22.2933333 9.76865672 104.946302 9.76865672 104.946302 95.0883607"></polygon>
+                    <polygon id="Path-517" fill="#AF1E2D" points="104.5 9.76865672 187.152969 9.76865672 187.152969 95.0883607"></polygon>
+                </g>
+                <g id="Group">
+                    <polygon id="Path-517" fill="#000000" points="0 0 104.5 0 104.5 104.664179"></polygon>
+                    <polygon id="Path-517" fill="#000000" transform="translate(156.750000, 52.332090) scale(-1, 1) translate(-156.750000, -52.332090) " points="104.5 0 209 0 209 104.664179"></polygon>
+                    <polygon id="Path-517" fill="#AF1E2D" points="22.2933333 9.76865672 104.946302 9.76865672 104.946302 95.0883607"></polygon>
+                    <polygon id="Path-517" fill="#AF1E2D" points="104.5 9.76865672 187.152969 9.76865672 187.152969 95.0883607"></polygon>
+                    <rect id="Rectangle-481" fill="#AF1E2D" x="91.96" y="82.3358209" width="25.08" height="37.6791045"></rect>
+                </g>
+            </g>
+            <g id="coin" transform="translate(44.586667, 139.552239)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <g id="coin" transform="translate(89.173333, 139.552239)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <g id="coin" transform="translate(66.880000, 114.432836)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <g id="coin" transform="translate(108.680000, 113.037313)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <g id="coin" transform="translate(89.173333, 60.007463)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <g id="coin" transform="translate(89.173333, 22.328358)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <g id="coin" transform="translate(129.580000, 139.552239)" stroke="#000000">
+                <ellipse id="Oval-31" stroke-width="3" cx="15.3266667" cy="15.3507463" rx="15.3266667" ry="15.3507463"></ellipse>
+                <ellipse id="Oval-31" stroke-width="2" cx="15.3266667" cy="15.3507463" rx="10.5583704" ry="10.5749585"></ellipse>
+                <ellipse id="Oval-31" cx="15.3266667" cy="15.3507463" rx="5.79007407" ry="5.79917081"></ellipse>
+                <ellipse id="Oval-31" stroke-width="0.5" cx="15.3266667" cy="15.3507463" rx="2.38414815" ry="2.38789386"></ellipse>
+            </g>
+            <rect id="Rectangle-482" fill="#000000" x="0" y="0" width="209" height="6.97761194"></rect>
+            <polygon id="Rectangle-482" fill="#000000" points="-1.42108547e-14 180.022388 209 180.022388 209 187 -1.42108547e-14 187"></polygon>
+        </g>
+    </g>
+</svg>

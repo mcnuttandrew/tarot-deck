@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>10 Wheel of fortune</title>
+    <desc>Created with Sketch.</desc>
+    <g id="10-Wheel-of-fortune" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#DD7500" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="WHEEL-OF-FORTUNE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="44" y="591">WHEEL OF FORTUNE</tspan>
+        </text>
+        <text id="X" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="171.5" y="63">X</tspan>
+        </text>
+        <g id="Oval-14-+-Oval-14" transform="translate(98.000000, 223.000000)"></g>
+        <g id="Group-+-Oval-29-+-Oval-29-+-Oval-31" transform="translate(82.000000, 197.000000)">
+            <g id="Group" transform="translate(98.000000, 98.500000) scale(1, -1) translate(-98.000000, -98.500000) ">
+                <g id="Oval-14-+-Oval-14" fill="#000000" stroke="#DD7500" stroke-width="3">
+                    <ellipse id="Oval-14" cx="77.0766065" cy="98.5" rx="77.0766065" ry="98.5"></ellipse>
+                </g>
+                <rect id="Rectangle-86" fill="#000000" x="77.7011952" y="173.5" width="41.5976096" height="22"></rect>
+                <rect id="Rectangle-85" fill="#000000" x="76.9163347" y="1.5" width="58.8645418" height="38"></rect>
+                <ellipse id="Oval-14" stroke="#DD7500" stroke-width="3" fill="#000000" cx="119.459077" cy="98" rx="75.9028511" ry="97"></ellipse>
+                <ellipse id="Oval-14" fill="#DD7500" cx="119.459077" cy="99.5" rx="44.9613538" ry="57.4583333"></ellipse>
+            </g>
+            <g id="Oval-29-+-Oval-29-+-Oval-31" transform="translate(77.000000, 43.000000)">
+                <ellipse id="Oval-29" fill="#000000" cx="42.5" cy="54.5" rx="42.5" ry="54.5"></ellipse>
+                <ellipse id="Oval-29" fill="#DD7500" cx="42.5" cy="54.5" rx="34.2575758" ry="43.930303"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="42.7575758" cy="55.4909091" rx="7.21212121" ry="9.24848485"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="42.7575758" cy="33.030303" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="42.7575758" cy="75.969697" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="58.7272727" cy="54.169697" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="26.2727273" cy="54.169697" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="30.9090909" cy="38.3151515" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="54.6060606" cy="38.9757576" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="54.0909091" cy="70.0242424" rx="3.09090909" ry="3.96363636"></ellipse>
+                <ellipse id="Oval-31" fill="#000000" cx="30.9090909" cy="69.3636364" rx="3.09090909" ry="3.96363636"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

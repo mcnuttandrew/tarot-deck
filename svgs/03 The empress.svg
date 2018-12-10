@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>03 The empress</title>
+    <desc>Created with Sketch.</desc>
+    <g id="03-The-empress" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M16.5,538 L340.5,538" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="THE-EMPRESS-" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="83.368" y="584.239868">THE EMPRESS </tspan>
+        </text>
+        <text id="III" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="169" y="63">III</tspan>
+        </text>
+        <g id="bathroom-woman-+-crown-+-Rectangle-111-+-Rectangle-111-+-Rectangle-111" transform="translate(54.000000, 138.000000)" fill="#000000">
+            <g id="bathroom-woman" transform="translate(62.000000, 34.000000)">
+                <rect id="Rectangle-15" x="31.0318618" y="53.9344262" width="65.9915366" height="111.885246"></rect>
+                <rect id="Rectangle-15" transform="translate(17.648058, 106.423863) rotate(-351.000000) translate(-17.648058, -106.423863) " x="7.44973087" y="57.9991817" width="20.3966543" height="96.8493636" rx="10.1983271"></rect>
+                <rect id="Rectangle-15" x="13.6378278" y="53.1516786" width="101.156264" height="31.557377" rx="15.7786885"></rect>
+                <path d="M31.0318618,165.767489 C31.0318618,159.141731 36.4022989,153.770492 43.030323,153.770492 L43.030323,153.770492 C49.6568901,153.770492 55.0287842,159.13672 55.0287842,165.767489 L55.0287842,233.003002 C55.0287842,239.628761 49.6583471,245 43.030323,245 L43.030323,245 C36.4037559,245 31.0318618,239.633772 31.0318618,233.003002 L31.0318618,165.767489 Z" id="Rectangle-15"></path>
+                <rect id="Rectangle-15" x="73.026476" y="153.770492" width="23.9969224" height="91.2295082" rx="11.9984612"></rect>
+                <ellipse id="Oval-7" cx="64.3275916" cy="24.3852459" rx="25.49673" ry="24.3852459"></ellipse>
+                <rect id="Rectangle-15" transform="translate(111.077271, 110.131591) scale(-1, 1) rotate(-351.000000) translate(-111.077271, -110.131591) " x="100.878579" y="58.9654873" width="20.397384" height="102.332208" rx="10.198692"></rect>
+                <polygon id="Path-42" points="19.8116792 182.380192 66.5127933 182.380192 66.5127933 67.2506831 32.9127017 90.798722"></polygon>
+                <polygon id="Path-42" transform="translate(85.740559, 124.881048) scale(-1, 1) translate(-85.740559, -124.881048) " points="62.3900023 182.445803 109.091116 182.445803 109.091116 67.3162939 75.4910248 90.8643329"></polygon>
+            </g>
+            <path d="M124.549625,3 L126.800375,3 C128.963637,8.06054041 133.323697,11.5185185 138.35,11.5185185 C144.108019,11.5185185 148.991696,6.98044925 150.7,0.693734979 L150.7,12.3703704 C149.98203,12.3703704 149.4,14.4679992 149.4,17.0555556 C149.4,19.6431119 149.98203,21.7407407 150.7,21.7407407 L150.7,26 L101.3,26 L101.3,21.7407407 C102.01797,21.7407407 102.6,19.6431119 102.6,17.0555556 C102.6,14.4679992 102.01797,12.3703704 101.3,12.3703704 L101.3,2.63679742 C103.406937,7.89435795 107.854338,11.5185185 113,11.5185185 C118.026303,11.5185185 122.386363,8.06054041 124.549625,3 Z M126,21.7407407 C126.71797,21.7407407 127.3,19.6431119 127.3,17.0555556 C127.3,14.4679992 126.71797,12.3703704 126,12.3703704 C125.28203,12.3703704 124.7,14.4679992 124.7,17.0555556 C124.7,19.6431119 125.28203,21.7407407 126,21.7407407 Z" id="crown"></path>
+            <g id="Rectangle-111-+-Rectangle-111-+-Rectangle-111" transform="translate(0.000000, 287.000000)">
+                <rect id="Rectangle-111" x="58" y="0" width="137" height="20" rx="10"></rect>
+                <rect id="Rectangle-111" x="24" y="28" width="205" height="20" rx="10"></rect>
+                <rect id="Rectangle-111" x="0" y="56" width="253" height="20" rx="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

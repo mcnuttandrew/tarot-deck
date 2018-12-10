@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>6 Coins</title>
+    <desc>Created with Sketch.</desc>
+    <g id="6-Coins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-9" stroke="#000000" stroke-width="10" fill="#FCD116" x="15" y="26" width="330" height="589" rx="25"></rect>
+        <path d="M18,533 L342,533" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+        <text id="ACE" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="24" font-style="expanded" font-weight="normal" line-spacing="20" fill="#000000">
+            <tspan x="116.5" y="587.830952">SUCCESS</tspan>
+        </text>
+        <g id="Label" transform="translate(166.000000, 40.000000)" fill="#000000" font-weight="normal" line-spacing="20">
+            <text id="COINS" font-family="HighwayGothicCondensed, Highway Gothic Condensed" font-size="14.3661972" font-style="condensed">
+                <tspan x="1.75" y="12.6785714">COINS</tspan>
+            </text>
+            <text id="2" font-family="HighwayGothicExpanded, Highway Gothic Expanded" font-size="34.4788732" font-style="expanded">
+                <tspan x="0.759259259" y="62.0535714">6</tspan>
+            </text>
+        </g>
+        <g id="man" transform="translate(140.000000, 163.000000)" fill="#000000">
+            <rect id="Rectangle-15" x="18.2178218" y="37.2037471" width="43.5643564" height="77.1779859"></rect>
+            <rect id="Rectangle-15" x="66.5346535" y="43.1405152" width="13.4653465" height="62.9297424" rx="6.73267327"></rect>
+            <rect id="Rectangle-15" x="0" y="37.2037471" width="79.6039604" height="21.7681499" rx="10.8840749"></rect>
+            <rect id="Rectangle-15" x="18.2178218" y="106.070258" width="15.8415842" height="62.9297424" rx="7.92079208"></rect>
+            <rect id="Rectangle-15" x="45.9405941" y="106.070258" width="15.8415842" height="62.9297424" rx="7.92079208"></rect>
+            <ellipse id="Oval-7" cx="40.1980198" cy="16.8208431" rx="16.8316832" ry="16.8208431"></ellipse>
+            <rect id="Rectangle-15" x="0" y="43.1948882" width="13.4653465" height="62.9297424" rx="6.73267327"></rect>
+        </g>
+        <g id="Rectangle-253-+-Rectangle-253-+-Rectangle-253" transform="translate(61.000000, 332.000000)" fill="#000000">
+            <rect id="Rectangle-253" x="77.7306397" y="53" width="160.26936" height="21"></rect>
+            <rect id="Rectangle-253" x="77.7306397" y="0" width="80.1346801" height="63.5"></rect>
+            <rect id="Rectangle-253" x="0" y="74" width="238" height="27"></rect>
+            <rect id="Rectangle-253" x="0" y="125" width="238" height="27"></rect>
+        </g>
+        <g id="Group" transform="translate(61.000000, 433.000000)" stroke="#000000">
+            <g id="coin" transform="translate(215.000000, 0.000000)">
+                <circle id="Oval-31" stroke-width="3" cx="11.5" cy="11.5" r="11.5"></circle>
+                <circle id="Oval-31" stroke-width="2" cx="11.5" cy="11.5" r="7.92222222"></circle>
+                <circle id="Oval-31" cx="11.5" cy="11.5" r="4.34444444"></circle>
+                <circle id="Oval-31" stroke-width="0.5" cx="11.5" cy="11.5" r="1.78888889"></circle>
+            </g>
+            <g id="coin">
+                <circle id="Oval-31" stroke-width="3" cx="11.5" cy="11.5" r="11.5"></circle>
+                <circle id="Oval-31" stroke-width="2" cx="11.5" cy="11.5" r="7.92222222"></circle>
+                <circle id="Oval-31" cx="11.5" cy="11.5" r="4.34444444"></circle>
+                <circle id="Oval-31" stroke-width="0.5" cx="11.5" cy="11.5" r="1.78888889"></circle>
+            </g>
+            <g id="coin" transform="translate(43.000000, 0.000000)">
+                <circle id="Oval-31" stroke-width="3" cx="11.5" cy="11.5" r="11.5"></circle>
+                <circle id="Oval-31" stroke-width="2" cx="11.5" cy="11.5" r="7.92222222"></circle>
+                <circle id="Oval-31" cx="11.5" cy="11.5" r="4.34444444"></circle>
+                <circle id="Oval-31" stroke-width="0.5" cx="11.5" cy="11.5" r="1.78888889"></circle>
+            </g>
+            <g id="coin" transform="translate(86.000000, 0.000000)">
+                <circle id="Oval-31" stroke-width="3" cx="11.5" cy="11.5" r="11.5"></circle>
+                <circle id="Oval-31" stroke-width="2" cx="11.5" cy="11.5" r="7.92222222"></circle>
+                <circle id="Oval-31" cx="11.5" cy="11.5" r="4.34444444"></circle>
+                <circle id="Oval-31" stroke-width="0.5" cx="11.5" cy="11.5" r="1.78888889"></circle>
+            </g>
+            <g id="coin" transform="translate(129.000000, 0.000000)">
+                <circle id="Oval-31" stroke-width="3" cx="11.5" cy="11.5" r="11.5"></circle>
+                <circle id="Oval-31" stroke-width="2" cx="11.5" cy="11.5" r="7.92222222"></circle>
+                <circle id="Oval-31" cx="11.5" cy="11.5" r="4.34444444"></circle>
+                <circle id="Oval-31" stroke-width="0.5" cx="11.5" cy="11.5" r="1.78888889"></circle>
+            </g>
+            <g id="coin" transform="translate(172.000000, 0.000000)">
+                <circle id="Oval-31" stroke-width="3" cx="11.5" cy="11.5" r="11.5"></circle>
+                <circle id="Oval-31" stroke-width="2" cx="11.5" cy="11.5" r="7.92222222"></circle>
+                <circle id="Oval-31" cx="11.5" cy="11.5" r="4.34444444"></circle>
+                <circle id="Oval-31" stroke-width="0.5" cx="11.5" cy="11.5" r="1.78888889"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
